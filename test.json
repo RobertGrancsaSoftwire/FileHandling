@@ -1,0 +1,4387 @@
+{
+  "Jon A": [
+    {
+      "Sarah T": {
+        "Debt": 27.630000000000003,
+        "History": [
+          {
+            "Date": "2013-12-31T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sarah T",
+            "Narrative": "Pokemon Training",
+            "Amount": "7.8"
+          },
+          {
+            "Date": "2015-01-17T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sarah T",
+            "Narrative": "Coffee",
+            "Amount": "10.73"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.1,
+            "From": "Jon A",
+            "To": "Sarah T",
+            "Narrative": "Spline Reticulation"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 32.32,
+        "History": [
+          {
+            "Date": "2014-02-06T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sam N",
+            "Narrative": "Beers",
+            "Amount": "1.65"
+          },
+          {
+            "Date": "2014-03-22T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sam N",
+            "Narrative": "Lunch",
+            "Amount": "8.49"
+          },
+          {
+            "Date": "2014-07-28T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sam N",
+            "Narrative": "Lunch",
+            "Amount": "5.31"
+          },
+          {
+            "Date": "2014-12-01T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training",
+            "Amount": "11.04"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.83,
+            "From": "Jon A",
+            "To": "Sam N",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 8.91,
+        "History": [
+          {
+            "Date": "2014-04-05T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Stephen S",
+            "Narrative": "Beers",
+            "Amount": "8.91"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 29.200000000000003,
+        "History": [
+          {
+            "Date": "2014-05-02T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Gergana I",
+            "Narrative": "Rails Consultancy",
+            "Amount": "10.51"
+          },
+          {
+            "Date": "2015-03-20T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "7.54"
+          },
+          {
+            "Date": "2012-12-31T22:00:00.000Z",
+            "Amount": 2.14,
+            "From": "Jon A",
+            "To": "Gergana I",
+            "Narrative": "Sandbox Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.01,
+            "From": "Jon A",
+            "To": "Gergana I",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 27.669999999999995,
+        "History": [
+          {
+            "Date": "2014-05-18T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Todd",
+            "Narrative": "Beers",
+            "Amount": "9.04"
+          },
+          {
+            "Date": "2015-04-25T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Todd",
+            "Narrative": "Stationary Items",
+            "Amount": "8.44"
+          },
+          {
+            "Date": "2013-12-01T22:00:00.000Z",
+            "Amount": 10.19,
+            "From": "Jon A",
+            "To": "Todd",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 31.36,
+        "History": [
+          {
+            "Date": "2014-07-15T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Dan W",
+            "Narrative": "Coffee",
+            "Amount": "11.75"
+          },
+          {
+            "Date": "2014-09-29T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Dan W",
+            "Narrative": "Sandbox Help",
+            "Amount": "9.26"
+          },
+          {
+            "Date": "2014-10-22T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Dan W",
+            "Narrative": "Lunch",
+            "Amount": "2.37"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.98,
+            "From": "Jon A",
+            "To": "Dan W",
+            "Narrative": "Snooker Night"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 40.14000000000001,
+        "History": [
+          {
+            "Date": "2014-08-17T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Lego Assistance",
+            "Amount": "7.22"
+          },
+          {
+            "Date": "2014-09-02T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Lunch",
+            "Amount": "8.13"
+          },
+          {
+            "Date": "2013-11-14T22:00:00.000Z",
+            "Amount": 9.13,
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Sandbox Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.79,
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Automated Testing Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.99,
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.88,
+            "From": "Jon A",
+            "To": "Tim L",
+            "Narrative": "Jenkins Fees"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 14.85,
+        "History": [
+          {
+            "Date": "2014-09-19T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Ben B",
+            "Narrative": "Beers",
+            "Amount": "3.71"
+          },
+          {
+            "Date": "2014-11-10T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Ben B",
+            "Narrative": "Stationary Items",
+            "Amount": "0.73"
+          },
+          {
+            "Date": "2013-06-11T21:00:00.000Z",
+            "Amount": 6.75,
+            "From": "Jon A",
+            "To": "Ben B",
+            "Narrative": "Sandcastle Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.66,
+            "From": "Jon A",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 6.8100000000000005,
+        "History": [
+          {
+            "Date": "2014-09-23T21:00:00.000Z",
+            "From": "Jon A",
+            "To": "Laura B",
+            "Narrative": "Golf Bets",
+            "Amount": "5.61"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.2,
+            "From": "Jon A",
+            "To": "Laura B",
+            "Narrative": "Golf Bets"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 35.67,
+        "History": [
+          {
+            "Date": "2014-12-08T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Chris W",
+            "Narrative": "Pokemon Training",
+            "Amount": "2.26"
+          },
+          {
+            "Date": "2015-02-06T22:00:00.000Z",
+            "From": "Jon A",
+            "To": "Chris W",
+            "Narrative": "Rails Consultancy",
+            "Amount": "7.37"
+          },
+          {
+            "Date": "2013-02-26T22:00:00.000Z",
+            "Amount": 10.58,
+            "From": "Jon A",
+            "To": "Chris W",
+            "Narrative": "Rails Consultancy"
+          },
+          {
+            "Date": "2013-12-27T22:00:00.000Z",
+            "Amount": 5.99,
+            "From": "Jon A",
+            "To": "Chris W",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.47,
+            "From": "Jon A",
+            "To": "Chris W",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 27.479999999999997,
+        "History": [
+          {
+            "Date": "2013-07-06T21:00:00.000Z",
+            "Amount": 6.69,
+            "From": "Jon A",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-08-06T21:00:00.000Z",
+            "Amount": 10.78,
+            "From": "Jon A",
+            "To": "Rob S",
+            "Narrative": "Poker Winnings"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.01,
+            "From": "Jon A",
+            "To": "Rob S",
+            "Narrative": "Lego Assistance"
+          }
+        ]
+      }
+    }
+  ],
+  "Stephen S": [
+    {
+      "Tim L": {
+        "Debt": 34.01,
+        "History": [
+          {
+            "Date": "2014-01-03T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Tim L",
+            "Narrative": "Lunch",
+            "Amount": "4.37"
+          },
+          {
+            "Date": "2015-03-27T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Tim L",
+            "Narrative": "Lunch",
+            "Amount": "5.83"
+          },
+          {
+            "Date": "2013-01-04T22:00:00.000Z",
+            "Amount": 10.57,
+            "From": "Stephen S",
+            "To": "Tim L",
+            "Narrative": "Sandcastle Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.38,
+            "From": "Stephen S",
+            "To": "Tim L",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.86,
+            "From": "Stephen S",
+            "To": "Tim L",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 33.730000000000004,
+        "History": [
+          {
+            "Date": "2014-01-13T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Ben B",
+            "Narrative": "Beers",
+            "Amount": "7.36"
+          },
+          {
+            "Date": "2014-06-22T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Ben B",
+            "Narrative": "Spline Reticulation",
+            "Amount": "11.85"
+          },
+          {
+            "Date": "2013-01-27T22:00:00.000Z",
+            "Amount": 1.92,
+            "From": "Stephen S",
+            "To": "Ben B",
+            "Narrative": "Services Rendered"
+          },
+          {
+            "Date": "2013-05-28T21:00:00.000Z",
+            "Amount": 1.51,
+            "From": "Stephen S",
+            "To": "Ben B",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.09,
+            "From": "Stephen S",
+            "To": "Ben B",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 41.6,
+        "History": [
+          {
+            "Date": "2014-01-18T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "5.88"
+          },
+          {
+            "Date": "2014-02-14T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Rails Consultancy",
+            "Amount": "6.91"
+          },
+          {
+            "Date": "2015-01-03T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Lunch",
+            "Amount": "3.22"
+          },
+          {
+            "Date": "2015-03-05T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Lego Assistance",
+            "Amount": "9.4"
+          },
+          {
+            "Date": "2013-07-15T21:00:00.000Z",
+            "Amount": 6.95,
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.1,
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.14,
+            "From": "Stephen S",
+            "To": "Gergana I",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 51.42999999999999,
+        "History": [
+          {
+            "Date": "2014-02-28T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Coffee",
+            "Amount": "8.75"
+          },
+          {
+            "Date": "2015-02-25T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Pokemon Training",
+            "Amount": "4.23"
+          },
+          {
+            "Date": "2015-03-10T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Sandcastle Help",
+            "Amount": "11.57"
+          },
+          {
+            "Date": "2013-04-24T21:00:00.000Z",
+            "Amount": 2.47,
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-04-25T21:00:00.000Z",
+            "Amount": 9.1,
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2013-06-22T21:00:00.000Z",
+            "Amount": 6.12,
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.55,
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.64,
+            "From": "Stephen S",
+            "To": "Jon A",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 34.480000000000004,
+        "History": [
+          {
+            "Date": "2014-04-07T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Sam N",
+            "Narrative": "Lego Assistance",
+            "Amount": "2.96"
+          },
+          {
+            "Date": "2014-06-10T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Sam N",
+            "Narrative": "Lego Assistance",
+            "Amount": "5.14"
+          },
+          {
+            "Date": "2013-05-21T21:00:00.000Z",
+            "Amount": 9.24,
+            "From": "Stephen S",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2013-07-04T21:00:00.000Z",
+            "Amount": 6.73,
+            "From": "Stephen S",
+            "To": "Sam N",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.41,
+            "From": "Stephen S",
+            "To": "Sam N",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 32.879999999999995,
+        "History": [
+          {
+            "Date": "2014-04-22T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Rob S",
+            "Narrative": "Poker Winnings",
+            "Amount": "3.41"
+          },
+          {
+            "Date": "2014-08-10T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Rob S",
+            "Narrative": "Lunch",
+            "Amount": "8.91"
+          },
+          {
+            "Date": "2015-02-01T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Rob S",
+            "Narrative": "Fantasy Football",
+            "Amount": "7.43"
+          },
+          {
+            "Date": "2015-02-17T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Rob S",
+            "Narrative": "Lego Assistance",
+            "Amount": "4.83"
+          },
+          {
+            "Date": "2013-11-04T22:00:00.000Z",
+            "Amount": 8.3,
+            "From": "Stephen S",
+            "To": "Rob S",
+            "Narrative": "Spline Reticulation"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 38.33,
+        "History": [
+          {
+            "Date": "2014-06-15T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Lunch",
+            "Amount": "4.79"
+          },
+          {
+            "Date": "2014-07-01T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Lego Assistance",
+            "Amount": "2.9"
+          },
+          {
+            "Date": "2013-03-26T22:00:00.000Z",
+            "Amount": 7.82,
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2013-09-21T21:00:00.000Z",
+            "Amount": 9.28,
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Sandbox Help"
+          },
+          {
+            "Date": "2013-09-22T21:00:00.000Z",
+            "Amount": 5.13,
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.41,
+            "From": "Stephen S",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 14.690000000000001,
+        "History": [
+          {
+            "Date": "2015-01-31T22:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Laura B",
+            "Narrative": "Coffee",
+            "Amount": "7.53"
+          },
+          {
+            "Date": "2013-09-12T21:00:00.000Z",
+            "Amount": 1.96,
+            "From": "Stephen S",
+            "To": "Laura B",
+            "Narrative": "Services Rendered"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.2,
+            "From": "Stephen S",
+            "To": "Laura B",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 39.910000000000004,
+        "History": [
+          {
+            "Date": "2015-04-01T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Pokemon Training",
+            "Amount": "1.11"
+          },
+          {
+            "Date": "2015-04-18T21:00:00.000Z",
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "White Water Rafting",
+            "Amount": "8.91"
+          },
+          {
+            "Date": "2013-04-04T21:00:00.000Z",
+            "Amount": 3.4,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-05-24T21:00:00.000Z",
+            "Amount": 2.85,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Sandbox Help"
+          },
+          {
+            "Date": "2013-08-10T21:00:00.000Z",
+            "Amount": 7.27,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-11-20T22:00:00.000Z",
+            "Amount": 2.53,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.89,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.95,
+            "From": "Stephen S",
+            "To": "Chris W",
+            "Narrative": "Automated Testing Services"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 27.26,
+        "History": [
+          {
+            "Date": "2013-02-09T22:00:00.000Z",
+            "Amount": 10.4,
+            "From": "Stephen S",
+            "To": "Todd",
+            "Narrative": "Snooker Night"
+          },
+          {
+            "Date": "2013-12-26T22:00:00.000Z",
+            "Amount": 4.34,
+            "From": "Stephen S",
+            "To": "Todd",
+            "Narrative": "Spline Reticulation"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.72,
+            "From": "Stephen S",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.8,
+            "From": "Stephen S",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 16.740000000000002,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.67,
+            "From": "Stephen S",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.07,
+            "From": "Stephen S",
+            "To": "Sarah T",
+            "Narrative": "Lego Assistance"
+          }
+        ]
+      }
+    }
+  ],
+  "Laura B": [
+    {
+      "Stephen S": {
+        "Debt": 43.96,
+        "History": [
+          {
+            "Date": "2014-01-07T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Stephen S",
+            "Narrative": "Lunch",
+            "Amount": "5.09"
+          },
+          {
+            "Date": "2014-02-13T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Stephen S",
+            "Narrative": "Snooker Night",
+            "Amount": "10.78"
+          },
+          {
+            "Date": "2014-07-24T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Stephen S",
+            "Narrative": "Poker Winnings",
+            "Amount": "9.42"
+          },
+          {
+            "Date": "2014-08-23T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Stephen S",
+            "Narrative": "Audit and Other Financial Services",
+            "Amount": "7.45"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.22,
+            "From": "Laura B",
+            "To": "Stephen S",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 28.58,
+        "History": [
+          {
+            "Date": "2014-01-23T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Sam N",
+            "Narrative": "Coffee",
+            "Amount": "11.68"
+          },
+          {
+            "Date": "2013-03-05T22:00:00.000Z",
+            "Amount": 7.26,
+            "From": "Laura B",
+            "To": "Sam N",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.93,
+            "From": "Laura B",
+            "To": "Sam N",
+            "Narrative": "Fantasy Football"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.71,
+            "From": "Laura B",
+            "To": "Sam N",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 22.88,
+        "History": [
+          {
+            "Date": "2014-04-29T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Ben B",
+            "Narrative": "Golf Bets",
+            "Amount": "5.77"
+          },
+          {
+            "Date": "2015-01-11T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Ben B",
+            "Narrative": "Beers",
+            "Amount": "8.94"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.17,
+            "From": "Laura B",
+            "To": "Ben B",
+            "Narrative": "Jenkins Fees"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 46.67,
+        "History": [
+          {
+            "Date": "2014-05-09T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Todd",
+            "Narrative": "Lego Assistance",
+            "Amount": "10.63"
+          },
+          {
+            "Date": "2014-05-29T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Todd",
+            "Narrative": "Lunch",
+            "Amount": "7.01"
+          },
+          {
+            "Date": "2014-10-24T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Todd",
+            "Narrative": "Beers",
+            "Amount": "8.42"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.36,
+            "From": "Laura B",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.25,
+            "From": "Laura B",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 31.4,
+        "History": [
+          {
+            "Date": "2014-08-02T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Rob S",
+            "Narrative": "Rails Consultancy",
+            "Amount": "6.26"
+          },
+          {
+            "Date": "2013-10-15T21:00:00.000Z",
+            "Amount": 5.71,
+            "From": "Laura B",
+            "To": "Rob S",
+            "Narrative": "Arcade Social"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.7,
+            "From": "Laura B",
+            "To": "Rob S",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.73,
+            "From": "Laura B",
+            "To": "Rob S",
+            "Narrative": "Git-Fu Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 30.259999999999998,
+        "History": [
+          {
+            "Date": "2014-08-27T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Beers",
+            "Amount": "0.57"
+          },
+          {
+            "Date": "2015-01-26T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Jenkins Fees",
+            "Amount": "0.52"
+          },
+          {
+            "Date": "2015-04-12T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Services Rendered",
+            "Amount": "1.27"
+          },
+          {
+            "Date": "2013-01-17T22:00:00.000Z",
+            "Amount": 7.17,
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2013-08-04T21:00:00.000Z",
+            "Amount": 11.34,
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2013-12-08T22:00:00.000Z",
+            "Amount": 9.39,
+            "From": "Laura B",
+            "To": "Tim L",
+            "Narrative": "Rails Consultancy"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 30.919999999999998,
+        "History": [
+          {
+            "Date": "2014-09-11T21:00:00.000Z",
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Git-Fu Rendered",
+            "Amount": "3.11"
+          },
+          {
+            "Date": "2014-11-18T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Coffee",
+            "Amount": "2.61"
+          },
+          {
+            "Date": "2015-01-15T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Lego Assistance",
+            "Amount": "0.69"
+          },
+          {
+            "Date": "2015-03-03T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Sandcastle Help",
+            "Amount": "9.09"
+          },
+          {
+            "Date": "2013-06-18T21:00:00.000Z",
+            "Amount": 3.68,
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-10-16T21:00:00.000Z",
+            "Amount": 7.71,
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Arcade Social"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.51,
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.52,
+            "From": "Laura B",
+            "To": "Jon A",
+            "Narrative": "Poker Winnings"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 22.479999999999997,
+        "History": [
+          {
+            "Date": "2014-12-31T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Sarah T",
+            "Narrative": "Misc Morale",
+            "Amount": "10.54"
+          },
+          {
+            "Date": "2013-05-17T21:00:00.000Z",
+            "Amount": 11.94,
+            "From": "Laura B",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 6.56,
+        "History": [
+          {
+            "Date": "2015-02-12T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "6.56"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 19.39,
+        "History": [
+          {
+            "Date": "2015-03-18T22:00:00.000Z",
+            "From": "Laura B",
+            "To": "Chris W",
+            "Narrative": "Coffee",
+            "Amount": "9.96"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.43,
+            "From": "Laura B",
+            "To": "Chris W",
+            "Narrative": "Stationary Items"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 27.96,
+        "History": [
+          {
+            "Date": "2013-05-03T21:00:00.000Z",
+            "Amount": 1.34,
+            "From": "Laura B",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.8,
+            "From": "Laura B",
+            "To": "Dan W",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.46,
+            "From": "Laura B",
+            "To": "Dan W",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.74,
+            "From": "Laura B",
+            "To": "Dan W",
+            "Narrative": "Snooker Night"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.62,
+            "From": "Laura B",
+            "To": "Dan W",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    }
+  ],
+  "Rob S": [
+    {
+      "Ben B": {
+        "Debt": 22.28,
+        "History": [
+          {
+            "Date": "2014-01-10T22:00:00.000Z",
+            "From": "Rob S",
+            "To": "Ben B",
+            "Narrative": "Misc Morale",
+            "Amount": "7.8"
+          },
+          {
+            "Date": "2014-11-06T22:00:00.000Z",
+            "From": "Rob S",
+            "To": "Ben B",
+            "Narrative": "Rails Consultancy",
+            "Amount": "3"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.85,
+            "From": "Rob S",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.63,
+            "From": "Rob S",
+            "To": "Ben B",
+            "Narrative": "Git-Fu Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 40.669999999999995,
+        "History": [
+          {
+            "Date": "2014-03-21T22:00:00.000Z",
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Misc Morale",
+            "Amount": "1.95"
+          },
+          {
+            "Date": "2014-07-22T21:00:00.000Z",
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Lego Assistance",
+            "Amount": "11.47"
+          },
+          {
+            "Date": "2013-03-31T21:00:00.000Z",
+            "Amount": 4.77,
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-11-08T22:00:00.000Z",
+            "Amount": 11,
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2013-12-12T22:00:00.000Z",
+            "Amount": 9.19,
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.29,
+            "From": "Rob S",
+            "To": "Tim L",
+            "Narrative": "Snooker Night"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 25.59,
+        "History": [
+          {
+            "Date": "2014-04-14T21:00:00.000Z",
+            "From": "Rob S",
+            "To": "Sam N",
+            "Narrative": "Snooker Night",
+            "Amount": "8.86"
+          },
+          {
+            "Date": "2013-11-11T22:00:00.000Z",
+            "Amount": 1.25,
+            "From": "Rob S",
+            "To": "Sam N",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2013-12-29T22:00:00.000Z",
+            "Amount": 2.54,
+            "From": "Rob S",
+            "To": "Sam N",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.6,
+            "From": "Rob S",
+            "To": "Sam N",
+            "Narrative": "Automated Testing Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.34,
+            "From": "Rob S",
+            "To": "Sam N",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 19.19,
+        "History": [
+          {
+            "Date": "2014-05-16T21:00:00.000Z",
+            "From": "Rob S",
+            "To": "Sarah T",
+            "Narrative": "Misc Morale",
+            "Amount": "3.61"
+          },
+          {
+            "Date": "2013-06-25T21:00:00.000Z",
+            "Amount": 8.39,
+            "From": "Rob S",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.19,
+            "From": "Rob S",
+            "To": "Sarah T",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 9.120000000000001,
+        "History": [
+          {
+            "Date": "2014-06-30T21:00:00.000Z",
+            "From": "Rob S",
+            "To": "Jon A",
+            "Narrative": "Lunch",
+            "Amount": "2.67"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.45,
+            "From": "Rob S",
+            "To": "Jon A",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 5.800000000000001,
+        "History": [
+          {
+            "Date": "2014-12-19T22:00:00.000Z",
+            "From": "Rob S",
+            "To": "Gergana I",
+            "Narrative": "Lunch",
+            "Amount": "1.07"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.73,
+            "From": "Rob S",
+            "To": "Gergana I",
+            "Narrative": "Sandcastle Help"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 5.78,
+        "History": [
+          {
+            "Date": "2015-02-03T22:00:00.000Z",
+            "From": "Rob S",
+            "To": "Stephen S",
+            "Narrative": "Fantasy Football",
+            "Amount": "5.78"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 10.95,
+        "History": [
+          {
+            "Date": "2013-02-06T22:00:00.000Z",
+            "Amount": 7.63,
+            "From": "Rob S",
+            "To": "Laura B",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2013-09-06T21:00:00.000Z",
+            "Amount": 3.32,
+            "From": "Rob S",
+            "To": "Laura B",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 27.6,
+        "History": [
+          {
+            "Date": "2013-04-14T21:00:00.000Z",
+            "Amount": 5.49,
+            "From": "Rob S",
+            "To": "Chris W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-08-27T21:00:00.000Z",
+            "Amount": 11.13,
+            "From": "Rob S",
+            "To": "Chris W",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.98,
+            "From": "Rob S",
+            "To": "Chris W",
+            "Narrative": "Automated Testing Services"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 11.36,
+        "History": [
+          {
+            "Date": "2013-06-04T21:00:00.000Z",
+            "Amount": 1.96,
+            "From": "Rob S",
+            "To": "Dan W",
+            "Narrative": "Golf Bets"
+          },
+          {
+            "Date": "2013-11-17T22:00:00.000Z",
+            "Amount": 9.4,
+            "From": "Rob S",
+            "To": "Dan W",
+            "Narrative": "Services Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 12.01,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.52,
+            "From": "Rob S",
+            "To": "Todd",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.49,
+            "From": "Rob S",
+            "To": "Todd",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    }
+  ],
+  "Sam N": [
+    {
+      "Stephen S": {
+        "Debt": 19.83,
+        "History": [
+          {
+            "Date": "2014-01-14T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Stephen S",
+            "Narrative": "Spline Reticulation",
+            "Amount": "11.63"
+          },
+          {
+            "Date": "2014-01-19T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Stephen S",
+            "Narrative": "Beers",
+            "Amount": "8.2"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 42.47,
+        "History": [
+          {
+            "Date": "2014-01-30T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Services Rendered",
+            "Amount": "6.29"
+          },
+          {
+            "Date": "2014-03-02T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Lunch",
+            "Amount": "8.76"
+          },
+          {
+            "Date": "2014-07-31T21:00:00.000Z",
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Coffee",
+            "Amount": "2.72"
+          },
+          {
+            "Date": "2014-08-31T21:00:00.000Z",
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Pokemon Training",
+            "Amount": "9.41"
+          },
+          {
+            "Date": "2015-02-09T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Sandbox Help",
+            "Amount": "9.84"
+          },
+          {
+            "Date": "2013-08-26T21:00:00.000Z",
+            "Amount": 5.45,
+            "From": "Sam N",
+            "To": "Gergana I",
+            "Narrative": "Fantasy Football"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 15.199999999999998,
+        "History": [
+          {
+            "Date": "2014-03-31T21:00:00.000Z",
+            "From": "Sam N",
+            "To": "Laura B",
+            "Narrative": "Lunch",
+            "Amount": "2.87"
+          },
+          {
+            "Date": "2014-11-08T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Laura B",
+            "Narrative": "Beers",
+            "Amount": "7.76"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.13,
+            "From": "Sam N",
+            "To": "Laura B",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.44,
+            "From": "Sam N",
+            "To": "Laura B",
+            "Narrative": "Rails Consultancy"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 8.8,
+        "History": [
+          {
+            "Date": "2014-05-23T21:00:00.000Z",
+            "From": "Sam N",
+            "To": "Tim L",
+            "Narrative": "Sandcastle Help",
+            "Amount": "8.8"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 14.620000000000001,
+        "History": [
+          {
+            "Date": "2014-07-05T21:00:00.000Z",
+            "From": "Sam N",
+            "To": "Jon A",
+            "Narrative": "Beers",
+            "Amount": "4.37"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.25,
+            "From": "Sam N",
+            "To": "Jon A",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 26.03,
+        "History": [
+          {
+            "Date": "2014-11-13T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Dan W",
+            "Narrative": "Spline Reticulation",
+            "Amount": "0.8"
+          },
+          {
+            "Date": "2013-10-26T21:00:00.000Z",
+            "Amount": 6.89,
+            "From": "Sam N",
+            "To": "Dan W",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.98,
+            "From": "Sam N",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.81,
+            "From": "Sam N",
+            "To": "Dan W",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.55,
+            "From": "Sam N",
+            "To": "Dan W",
+            "Narrative": "Sandbox Help"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 23.049999999999997,
+        "History": [
+          {
+            "Date": "2014-11-17T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Chris W",
+            "Narrative": "Golf Bets",
+            "Amount": "6.44"
+          },
+          {
+            "Date": "2015-01-28T22:00:00.000Z",
+            "From": "Sam N",
+            "To": "Chris W",
+            "Narrative": "Lunch",
+            "Amount": "9.01"
+          },
+          {
+            "Date": "2013-02-14T22:00:00.000Z",
+            "Amount": 1.54,
+            "From": "Sam N",
+            "To": "Chris W",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.06,
+            "From": "Sam N",
+            "To": "Chris W",
+            "Narrative": "Audit and Other Financial Services"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 29.13,
+        "History": [
+          {
+            "Date": "2013-02-03T22:00:00.000Z",
+            "Amount": 5.52,
+            "From": "Sam N",
+            "To": "Sarah T",
+            "Narrative": "Arcade Social"
+          },
+          {
+            "Date": "2013-10-19T21:00:00.000Z",
+            "Amount": 10.6,
+            "From": "Sam N",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-11-30T22:00:00.000Z",
+            "Amount": 6.35,
+            "From": "Sam N",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.66,
+            "From": "Sam N",
+            "To": "Sarah T",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 7.48,
+        "History": [
+          {
+            "Date": "2013-09-15T21:00:00.000Z",
+            "Amount": 2.81,
+            "From": "Sam N",
+            "To": "Rob S",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.67,
+            "From": "Sam N",
+            "To": "Rob S",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 5.43,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.43,
+            "From": "Sam N",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    }
+  ],
+  "Todd": [
+    {
+      "Ben B": {
+        "Debt": 75.01,
+        "History": [
+          {
+            "Date": "2014-01-27T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "6.81"
+          },
+          {
+            "Date": "2014-01-31T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Snooker Night",
+            "Amount": "6.87"
+          },
+          {
+            "Date": "2014-04-03T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Rails Consultancy",
+            "Amount": "10.85"
+          },
+          {
+            "Date": "2013-05-12T21:00:00.000Z",
+            "Amount": 11.07,
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-06-01T21:00:00.000Z",
+            "Amount": 11.83,
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Golf Bets"
+          },
+          {
+            "Date": "2013-12-18T22:00:00.000Z",
+            "Amount": 8.72,
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.46,
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Sandcastle Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.4,
+            "From": "Todd",
+            "To": "Ben B",
+            "Narrative": "Sandcastle Help"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 47.42999999999999,
+        "History": [
+          {
+            "Date": "2014-02-04T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Sandbox Help",
+            "Amount": "5.62"
+          },
+          {
+            "Date": "2014-02-24T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Automated Testing Services",
+            "Amount": "7.1"
+          },
+          {
+            "Date": "2014-12-24T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Lego Assistance",
+            "Amount": "1.86"
+          },
+          {
+            "Date": "2015-01-14T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Beers",
+            "Amount": "10.19"
+          },
+          {
+            "Date": "2013-01-08T22:00:00.000Z",
+            "Amount": 8.19,
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-08-25T21:00:00.000Z",
+            "Amount": 3.85,
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-10-10T21:00:00.000Z",
+            "Amount": 10.62,
+            "From": "Todd",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 15.82,
+        "History": [
+          {
+            "Date": "2014-03-06T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Laura B",
+            "Narrative": "Pokemon Training",
+            "Amount": "9.39"
+          },
+          {
+            "Date": "2014-04-10T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Laura B",
+            "Narrative": "Coffee",
+            "Amount": "3.72"
+          },
+          {
+            "Date": "2013-01-14T22:00:00.000Z",
+            "Amount": 2.71,
+            "From": "Todd",
+            "To": "Laura B",
+            "Narrative": "Golf Bets"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 13.299999999999999,
+        "History": [
+          {
+            "Date": "2014-03-09T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Gergana I",
+            "Narrative": "Sandbox Help",
+            "Amount": "1.62"
+          },
+          {
+            "Date": "2015-02-23T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Gergana I",
+            "Narrative": "Coffee",
+            "Amount": "9.08"
+          },
+          {
+            "Date": "2013-04-08T21:00:00.000Z",
+            "Amount": 2.6,
+            "From": "Todd",
+            "To": "Gergana I",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 17.13,
+        "History": [
+          {
+            "Date": "2014-03-28T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Sarah T",
+            "Narrative": "Git-Fu Rendered",
+            "Amount": "5.01"
+          },
+          {
+            "Date": "2014-04-09T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Sarah T",
+            "Narrative": "Snooker Night",
+            "Amount": "3.55"
+          },
+          {
+            "Date": "2014-11-22T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Sarah T",
+            "Narrative": "Beers",
+            "Amount": "2.24"
+          },
+          {
+            "Date": "2013-01-12T22:00:00.000Z",
+            "Amount": 1.01,
+            "From": "Todd",
+            "To": "Sarah T",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-04-20T21:00:00.000Z",
+            "Amount": 5.32,
+            "From": "Todd",
+            "To": "Sarah T",
+            "Narrative": "Sandcastle Help"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 38.22,
+        "History": [
+          {
+            "Date": "2014-04-25T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Tim L",
+            "Narrative": "Lunch",
+            "Amount": "1.46"
+          },
+          {
+            "Date": "2014-12-15T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Tim L",
+            "Narrative": "Poker Winnings",
+            "Amount": "7.17"
+          },
+          {
+            "Date": "2013-09-30T21:00:00.000Z",
+            "Amount": 10.13,
+            "From": "Todd",
+            "To": "Tim L",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.57,
+            "From": "Todd",
+            "To": "Tim L",
+            "Narrative": "Automated Testing Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.89,
+            "From": "Todd",
+            "To": "Tim L",
+            "Narrative": "Git-Fu Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 24.16,
+        "History": [
+          {
+            "Date": "2014-06-13T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Sam N",
+            "Narrative": "Lego Assistance",
+            "Amount": "6.3"
+          },
+          {
+            "Date": "2015-03-14T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training",
+            "Amount": "2.29"
+          },
+          {
+            "Date": "2013-08-22T21:00:00.000Z",
+            "Amount": 0.6,
+            "From": "Todd",
+            "To": "Sam N",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.4,
+            "From": "Todd",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.57,
+            "From": "Todd",
+            "To": "Sam N",
+            "Narrative": "Snooker Night"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 33.22,
+        "History": [
+          {
+            "Date": "2014-09-08T21:00:00.000Z",
+            "From": "Todd",
+            "To": "Dan W",
+            "Narrative": "Audit and Other Financial Services",
+            "Amount": "3.93"
+          },
+          {
+            "Date": "2013-05-05T21:00:00.000Z",
+            "Amount": 4.92,
+            "From": "Todd",
+            "To": "Dan W",
+            "Narrative": "Git-Fu Rendered"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.44,
+            "From": "Todd",
+            "To": "Dan W",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.59,
+            "From": "Todd",
+            "To": "Dan W",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.34,
+            "From": "Todd",
+            "To": "Dan W",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 33.6,
+        "History": [
+          {
+            "Date": "2015-03-01T22:00:00.000Z",
+            "From": "Todd",
+            "To": "Chris W",
+            "Narrative": "Sandbox Help",
+            "Amount": "1.92"
+          },
+          {
+            "Date": "2013-03-13T22:00:00.000Z",
+            "Amount": 8.97,
+            "From": "Todd",
+            "To": "Chris W",
+            "Narrative": "Rails Consultancy"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.88,
+            "From": "Todd",
+            "To": "Chris W",
+            "Narrative": "Fantasy Football"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.83,
+            "From": "Todd",
+            "To": "Chris W",
+            "Narrative": "Golf Bets"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 1.96,
+        "History": [
+          {
+            "Date": "2013-03-11T22:00:00.000Z",
+            "Amount": 0.9,
+            "From": "Todd",
+            "To": "Jon A",
+            "Narrative": "Automated Testing Services"
+          },
+          {
+            "Date": "2013-06-05T21:00:00.000Z",
+            "Amount": 1.06,
+            "From": "Todd",
+            "To": "Jon A",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 4.15,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.15,
+            "From": "Todd",
+            "To": "Stephen S",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    }
+  ],
+  "Chris W": [
+    {
+      "Ben B": {
+        "Debt": 54.9,
+        "History": [
+          {
+            "Date": "2014-02-03T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Spline Reticulation",
+            "Amount": "6.03"
+          },
+          {
+            "Date": "2014-12-17T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "11.17"
+          },
+          {
+            "Date": "2015-04-04T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Lunch",
+            "Amount": "0.96"
+          },
+          {
+            "Date": "2013-06-26T21:00:00.000Z",
+            "Amount": 10.41,
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2013-09-02T21:00:00.000Z",
+            "Amount": 9.48,
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-10-03T21:00:00.000Z",
+            "Amount": 5.96,
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.89,
+            "From": "Chris W",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 30.810000000000002,
+        "History": [
+          {
+            "Date": "2014-06-25T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Todd",
+            "Narrative": "Beers",
+            "Amount": "9.81"
+          },
+          {
+            "Date": "2014-11-20T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Todd",
+            "Narrative": "Lego Assistance",
+            "Amount": "1.42"
+          },
+          {
+            "Date": "2013-10-22T21:00:00.000Z",
+            "Amount": 3.42,
+            "From": "Chris W",
+            "To": "Todd",
+            "Narrative": "Lego Assistance"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.38,
+            "From": "Chris W",
+            "To": "Todd",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.78,
+            "From": "Chris W",
+            "To": "Todd",
+            "Narrative": "Services Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 14.77,
+        "History": [
+          {
+            "Date": "2014-06-28T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Laura B",
+            "Narrative": "Jenkins Fees",
+            "Amount": "8.7"
+          },
+          {
+            "Date": "2013-03-21T22:00:00.000Z",
+            "Amount": 4.15,
+            "From": "Chris W",
+            "To": "Laura B",
+            "Narrative": "Git-Fu Rendered"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.92,
+            "From": "Chris W",
+            "To": "Laura B",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 38.919999999999995,
+        "History": [
+          {
+            "Date": "2014-08-13T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Misc Morale",
+            "Amount": "6.59"
+          },
+          {
+            "Date": "2013-02-21T22:00:00.000Z",
+            "Amount": 8.77,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-05-07T21:00:00.000Z",
+            "Amount": 5.94,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-06-21T21:00:00.000Z",
+            "Amount": 0.98,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2013-07-12T21:00:00.000Z",
+            "Amount": 2.08,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2013-12-11T22:00:00.000Z",
+            "Amount": 11.44,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.12,
+            "From": "Chris W",
+            "To": "Tim L",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 1.9,
+        "History": [
+          {
+            "Date": "2014-08-21T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Sam N",
+            "Narrative": "Golf Bets",
+            "Amount": "1.9"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 8.9,
+        "History": [
+          {
+            "Date": "2014-10-29T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Gergana I",
+            "Narrative": "Jenkins Fees",
+            "Amount": "8.9"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 37.48,
+        "History": [
+          {
+            "Date": "2014-11-03T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Sandbox Help",
+            "Amount": "6.15"
+          },
+          {
+            "Date": "2014-11-24T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Pokemon Training",
+            "Amount": "5.76"
+          },
+          {
+            "Date": "2015-04-08T21:00:00.000Z",
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Audit and Other Financial Services",
+            "Amount": "11.79"
+          },
+          {
+            "Date": "2013-06-02T21:00:00.000Z",
+            "Amount": 2.16,
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.32,
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Spline Reticulation"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.3,
+            "From": "Chris W",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 15.34,
+        "History": [
+          {
+            "Date": "2015-02-10T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Stephen S",
+            "Narrative": "Misc Morale",
+            "Amount": "0.68"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.88,
+            "From": "Chris W",
+            "To": "Stephen S",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.78,
+            "From": "Chris W",
+            "To": "Stephen S",
+            "Narrative": "Sandcastle Help"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 15.009999999999998,
+        "History": [
+          {
+            "Date": "2015-02-15T22:00:00.000Z",
+            "From": "Chris W",
+            "To": "Dan W",
+            "Narrative": "Jenkins Fees",
+            "Amount": "1.28"
+          },
+          {
+            "Date": "2013-01-03T22:00:00.000Z",
+            "Amount": 10.53,
+            "From": "Chris W",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.2,
+            "From": "Chris W",
+            "To": "Dan W",
+            "Narrative": "Rails Consultancy"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 11.58,
+        "History": [
+          {
+            "Date": "2013-09-26T21:00:00.000Z",
+            "Amount": 7.05,
+            "From": "Chris W",
+            "To": "Sarah T",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.53,
+            "From": "Chris W",
+            "To": "Sarah T",
+            "Narrative": "Git-Fu Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 10.84,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.84,
+            "From": "Chris W",
+            "To": "Jon A",
+            "Narrative": "Spline Reticulation"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 2.48,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.48,
+            "From": "Chris W",
+            "To": "Chris W",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    }
+  ],
+  "Dan W": [
+    {
+      "Sam N": {
+        "Debt": 27.97,
+        "History": [
+          {
+            "Date": "2014-02-09T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Lunch",
+            "Amount": "0.93"
+          },
+          {
+            "Date": "2014-10-18T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Automated Testing Services",
+            "Amount": "8"
+          },
+          {
+            "Date": "2014-10-21T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Beers",
+            "Amount": "0.55"
+          },
+          {
+            "Date": "2013-07-30T21:00:00.000Z",
+            "Amount": 1.2,
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.22,
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.07,
+            "From": "Dan W",
+            "To": "Sam N",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 4.77,
+        "History": [
+          {
+            "Date": "2014-03-29T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Laura B",
+            "Narrative": "Lunch",
+            "Amount": "4.77"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 29.32,
+        "History": [
+          {
+            "Date": "2014-04-19T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "11.92"
+          },
+          {
+            "Date": "2014-06-04T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Gergana I",
+            "Narrative": "Spline Reticulation",
+            "Amount": "5.61"
+          },
+          {
+            "Date": "2015-02-05T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Gergana I",
+            "Narrative": "Automated Testing Services",
+            "Amount": "10.29"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.58,
+            "From": "Dan W",
+            "To": "Gergana I",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.92,
+            "From": "Dan W",
+            "To": "Gergana I",
+            "Narrative": "Lego Assistance"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 13.989999999999998,
+        "History": [
+          {
+            "Date": "2014-05-04T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Sarah T",
+            "Narrative": "Stationary Items",
+            "Amount": "5.06"
+          },
+          {
+            "Date": "2014-07-10T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Sarah T",
+            "Narrative": "Misc Morale",
+            "Amount": "5.05"
+          },
+          {
+            "Date": "2013-07-09T21:00:00.000Z",
+            "Amount": 3.88,
+            "From": "Dan W",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 31.36,
+        "History": [
+          {
+            "Date": "2014-07-08T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Tim L",
+            "Narrative": "Misc Morale",
+            "Amount": "5.45"
+          },
+          {
+            "Date": "2014-12-11T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Tim L",
+            "Narrative": "Coffee",
+            "Amount": "4.5"
+          },
+          {
+            "Date": "2013-09-04T21:00:00.000Z",
+            "Amount": 10.58,
+            "From": "Dan W",
+            "To": "Tim L",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.63,
+            "From": "Dan W",
+            "To": "Tim L",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.2,
+            "From": "Dan W",
+            "To": "Tim L",
+            "Narrative": "Pokemon Training"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 25.65,
+        "History": [
+          {
+            "Date": "2014-09-05T21:00:00.000Z",
+            "From": "Dan W",
+            "To": "Todd",
+            "Narrative": "Lunch",
+            "Amount": "1.8"
+          },
+          {
+            "Date": "2013-06-20T21:00:00.000Z",
+            "Amount": 5.43,
+            "From": "Dan W",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.1,
+            "From": "Dan W",
+            "To": "Todd",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.32,
+            "From": "Dan W",
+            "To": "Todd",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 6.37,
+        "History": [
+          {
+            "Date": "2014-10-28T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Ben B",
+            "Narrative": "Rails Consultancy",
+            "Amount": "5.87"
+          },
+          {
+            "Date": "2015-02-20T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Ben B",
+            "Narrative": "Pokemon Training",
+            "Amount": "0.5"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 10.23,
+        "History": [
+          {
+            "Date": "2014-12-21T22:00:00.000Z",
+            "From": "Dan W",
+            "To": "Jon A",
+            "Narrative": "Lunch",
+            "Amount": "3.66"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.57,
+            "From": "Dan W",
+            "To": "Jon A",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 36.26,
+        "History": [
+          {
+            "Date": "2013-01-21T22:00:00.000Z",
+            "Amount": 11.12,
+            "From": "Dan W",
+            "To": "Rob S",
+            "Narrative": "Sandcastle Help"
+          },
+          {
+            "Date": "2013-02-05T22:00:00.000Z",
+            "Amount": 8.07,
+            "From": "Dan W",
+            "To": "Rob S",
+            "Narrative": "Snooker Night"
+          },
+          {
+            "Date": "2013-10-28T22:00:00.000Z",
+            "Amount": 9.99,
+            "From": "Dan W",
+            "To": "Rob S",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.08,
+            "From": "Dan W",
+            "To": "Rob S",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 14.97,
+        "History": [
+          {
+            "Date": "2013-03-16T22:00:00.000Z",
+            "Amount": 3.34,
+            "From": "Dan W",
+            "To": "Chris W",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.63,
+            "From": "Dan W",
+            "To": "Chris W",
+            "Narrative": "Fantasy Football"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 18.16,
+        "History": [
+          {
+            "Date": "2013-07-18T21:00:00.000Z",
+            "Amount": 3.21,
+            "From": "Dan W",
+            "To": "Stephen S",
+            "Narrative": "Arcade Social"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.84,
+            "From": "Dan W",
+            "To": "Stephen S",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.11,
+            "From": "Dan W",
+            "To": "Stephen S",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    }
+  ],
+  "Sarah T": [
+    {
+      "Sam N": {
+        "Debt": 10.370000000000001,
+        "History": [
+          {
+            "Date": "2014-02-17T22:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Sam N",
+            "Narrative": "Spline Reticulation",
+            "Amount": "1.6"
+          },
+          {
+            "Date": "2013-02-17T22:00:00.000Z",
+            "Amount": 6.98,
+            "From": "Sarah T",
+            "To": "Sam N",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.79,
+            "From": "Sarah T",
+            "To": "Sam N",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 30.490000000000002,
+        "History": [
+          {
+            "Date": "2014-03-13T22:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Ben B",
+            "Narrative": "Spline Reticulation",
+            "Amount": "2.1"
+          },
+          {
+            "Date": "2014-07-21T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "11.56"
+          },
+          {
+            "Date": "2013-05-04T21:00:00.000Z",
+            "Amount": 0.51,
+            "From": "Sarah T",
+            "To": "Ben B",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2013-12-16T22:00:00.000Z",
+            "Amount": 8.72,
+            "From": "Sarah T",
+            "To": "Ben B",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.6,
+            "From": "Sarah T",
+            "To": "Ben B",
+            "Narrative": "Jenkins Fees"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 40.760000000000005,
+        "History": [
+          {
+            "Date": "2014-03-16T22:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "Beers",
+            "Amount": "0.66"
+          },
+          {
+            "Date": "2014-06-08T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "Lego Assistance",
+            "Amount": "11.5"
+          },
+          {
+            "Date": "2013-02-25T22:00:00.000Z",
+            "Amount": 5.94,
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2013-04-02T21:00:00.000Z",
+            "Amount": 2.64,
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-07-22T21:00:00.000Z",
+            "Amount": 11.17,
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "Services Rendered"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.85,
+            "From": "Sarah T",
+            "To": "Stephen S",
+            "Narrative": "White Water Rafting"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 16.73,
+        "History": [
+          {
+            "Date": "2014-06-27T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "4.03"
+          },
+          {
+            "Date": "2013-06-09T21:00:00.000Z",
+            "Amount": 10.81,
+            "From": "Sarah T",
+            "To": "Gergana I",
+            "Narrative": "Lego Assistance"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.89,
+            "From": "Sarah T",
+            "To": "Gergana I",
+            "Narrative": "Sandcastle Help"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 20.2,
+        "History": [
+          {
+            "Date": "2014-08-12T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Todd",
+            "Narrative": "Beers",
+            "Amount": "8.25"
+          },
+          {
+            "Date": "2013-01-29T22:00:00.000Z",
+            "Amount": 11.95,
+            "From": "Sarah T",
+            "To": "Todd",
+            "Narrative": "Jenkins Fees"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 51.85,
+        "History": [
+          {
+            "Date": "2014-09-26T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Beers",
+            "Amount": "11.6"
+          },
+          {
+            "Date": "2015-02-16T22:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Sandbox Help",
+            "Amount": "11.48"
+          },
+          {
+            "Date": null,
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Beers",
+            "Amount": "5.42"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.49,
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Lego Assistance"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.78,
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Automated Testing Services"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.72,
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.36,
+            "From": "Sarah T",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 17.29,
+        "History": [
+          {
+            "Date": "2014-10-05T21:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Tim L",
+            "Narrative": "Spline Reticulation",
+            "Amount": "7.44"
+          },
+          {
+            "Date": "2014-11-01T22:00:00.000Z",
+            "From": "Sarah T",
+            "To": "Tim L",
+            "Narrative": "Lego Assistance",
+            "Amount": "4.67"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.18,
+            "From": "Sarah T",
+            "To": "Tim L",
+            "Narrative": "Golf Bets"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 20.900000000000002,
+        "History": [
+          {
+            "Date": "2013-01-30T22:00:00.000Z",
+            "Amount": 7.55,
+            "From": "Sarah T",
+            "To": "Chris W",
+            "Narrative": "Poker Winnings"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 5.19,
+            "From": "Sarah T",
+            "To": "Chris W",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.75,
+            "From": "Sarah T",
+            "To": "Chris W",
+            "Narrative": "Lego Assistance"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.41,
+            "From": "Sarah T",
+            "To": "Chris W",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 32.58,
+        "History": [
+          {
+            "Date": "2013-08-21T21:00:00.000Z",
+            "Amount": 7.05,
+            "From": "Sarah T",
+            "To": "Laura B",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2013-10-31T22:00:00.000Z",
+            "Amount": 7.01,
+            "From": "Sarah T",
+            "To": "Laura B",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.24,
+            "From": "Sarah T",
+            "To": "Laura B",
+            "Narrative": "Snooker Night"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.28,
+            "From": "Sarah T",
+            "To": "Laura B",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 10.69,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.69,
+            "From": "Sarah T",
+            "To": "Rob S",
+            "Narrative": "Audit and Other Financial Services"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 8.89,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.89,
+            "From": "Sarah T",
+            "To": "Jon A",
+            "Narrative": "Stationary Items"
+          }
+        ]
+      }
+    }
+  ],
+  "Tim L": [
+    {
+      "Sam N": {
+        "Debt": 31.53,
+        "History": [
+          {
+            "Date": "2014-02-21T22:00:00.000Z",
+            "From": "Tim L",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training",
+            "Amount": "5.2"
+          },
+          {
+            "Date": "2013-08-18T21:00:00.000Z",
+            "Amount": 7.51,
+            "From": "Tim L",
+            "To": "Sam N",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-11-23T22:00:00.000Z",
+            "Amount": 7.59,
+            "From": "Tim L",
+            "To": "Sam N",
+            "Narrative": "Rails Consultancy"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.12,
+            "From": "Tim L",
+            "To": "Sam N",
+            "Narrative": "Sandbox Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.11,
+            "From": "Tim L",
+            "To": "Sam N",
+            "Narrative": "Services Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 21.71,
+        "History": [
+          {
+            "Date": "2014-03-19T22:00:00.000Z",
+            "From": "Tim L",
+            "To": "Sarah T",
+            "Narrative": "Lego Assistance",
+            "Amount": "2.28"
+          },
+          {
+            "Date": "2015-04-23T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Sarah T",
+            "Narrative": "Arcade Social",
+            "Amount": "6.38"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.74,
+            "From": "Tim L",
+            "To": "Sarah T",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.31,
+            "From": "Tim L",
+            "To": "Sarah T",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 27.07,
+        "History": [
+          {
+            "Date": "2014-04-23T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Dan W",
+            "Narrative": "Misc Morale",
+            "Amount": "6.38"
+          },
+          {
+            "Date": "2014-11-27T22:00:00.000Z",
+            "From": "Tim L",
+            "To": "Dan W",
+            "Narrative": "Beers",
+            "Amount": "8.76"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.93,
+            "From": "Tim L",
+            "To": "Dan W",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 34.980000000000004,
+        "History": [
+          {
+            "Date": "2014-05-05T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Chris W",
+            "Narrative": "Audit and Other Financial Services",
+            "Amount": "7.45"
+          },
+          {
+            "Date": "2013-07-03T21:00:00.000Z",
+            "Amount": 5.63,
+            "From": "Tim L",
+            "To": "Chris W",
+            "Narrative": "Poker Winnings"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.73,
+            "From": "Tim L",
+            "To": "Chris W",
+            "Narrative": "Fantasy Football"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.17,
+            "From": "Tim L",
+            "To": "Chris W",
+            "Narrative": "Arcade Social"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 45.24,
+        "History": [
+          {
+            "Date": "2014-05-12T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "5.89"
+          },
+          {
+            "Date": "2014-05-30T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "8.23"
+          },
+          {
+            "Date": "2013-09-09T21:00:00.000Z",
+            "Amount": 8.68,
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.61,
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.73,
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "White Water Rafting"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.1,
+            "From": "Tim L",
+            "To": "Ben B",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 29.119999999999997,
+        "History": [
+          {
+            "Date": "2014-05-21T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Coffee",
+            "Amount": "3.81"
+          },
+          {
+            "Date": "2015-03-29T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Pokemon Training",
+            "Amount": "8.6"
+          },
+          {
+            "Date": "2015-04-22T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Misc Morale",
+            "Amount": "8.1"
+          },
+          {
+            "Date": "2013-04-07T21:00:00.000Z",
+            "Amount": 4.27,
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.57,
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.77,
+            "From": "Tim L",
+            "To": "Todd",
+            "Narrative": "Services Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 24.790000000000003,
+        "History": [
+          {
+            "Date": "2014-05-31T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Stephen S",
+            "Narrative": "Rails Consultancy",
+            "Amount": "5.2"
+          },
+          {
+            "Date": "2014-06-21T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Stephen S",
+            "Narrative": "Coffee",
+            "Amount": "6.44"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 4.42,
+            "From": "Tim L",
+            "To": "Stephen S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.73,
+            "From": "Tim L",
+            "To": "Stephen S",
+            "Narrative": "Spline Reticulation"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 12.799999999999999,
+        "History": [
+          {
+            "Date": "2014-08-07T21:00:00.000Z",
+            "From": "Tim L",
+            "To": "Laura B",
+            "Narrative": "Coffee",
+            "Amount": "3.76"
+          },
+          {
+            "Date": "2013-06-29T21:00:00.000Z",
+            "Amount": 6.51,
+            "From": "Tim L",
+            "To": "Laura B",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-09-11T21:00:00.000Z",
+            "Amount": 2.53,
+            "From": "Tim L",
+            "To": "Laura B",
+            "Narrative": "Lego Assistance"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 16.41,
+        "History": [
+          {
+            "Date": "2013-06-30T21:00:00.000Z",
+            "Amount": 1.48,
+            "From": "Tim L",
+            "To": "Jon A",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 8.65,
+            "From": "Tim L",
+            "To": "Jon A",
+            "Narrative": "Fantasy Football"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.28,
+            "From": "Tim L",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 10.1,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.1,
+            "From": "Tim L",
+            "To": "Rob S",
+            "Narrative": "Automated Testing Services"
+          }
+        ]
+      }
+    }
+  ],
+  "Ben B": [
+    {
+      "Rob S": {
+        "Debt": 19.86,
+        "History": [
+          {
+            "Date": "2014-02-26T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Rob S",
+            "Narrative": "Snooker Night",
+            "Amount": "8.41"
+          },
+          {
+            "Date": "2014-04-08T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Rob S",
+            "Narrative": "Coffee",
+            "Amount": "1.31"
+          },
+          {
+            "Date": "2013-12-23T22:00:00.000Z",
+            "Amount": 10.14,
+            "From": "Ben B",
+            "To": "Rob S",
+            "Narrative": "Snooker Night"
+          }
+        ]
+      }
+    },
+    {
+      "Sam N": {
+        "Debt": 48.85,
+        "History": [
+          {
+            "Date": "2014-03-26T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Misc Morale",
+            "Amount": "10.76"
+          },
+          {
+            "Date": "2014-12-28T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Coffee",
+            "Amount": "5.26"
+          },
+          {
+            "Date": "2015-03-07T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training",
+            "Amount": "11.32"
+          },
+          {
+            "Date": "2015-04-14T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Lego Assistance",
+            "Amount": "8.5"
+          },
+          {
+            "Date": "2013-11-28T22:00:00.000Z",
+            "Amount": 4.01,
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2013-12-04T22:00:00.000Z",
+            "Amount": 9,
+            "From": "Ben B",
+            "To": "Sam N",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Gergana I": {
+        "Debt": 38.010000000000005,
+        "History": [
+          {
+            "Date": "2014-04-18T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Gergana I",
+            "Narrative": "Lunch",
+            "Amount": "7.61"
+          },
+          {
+            "Date": "2014-08-20T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Gergana I",
+            "Narrative": "Rails Consultancy",
+            "Amount": "9.25"
+          },
+          {
+            "Date": "2014-10-09T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Gergana I",
+            "Narrative": "Beers",
+            "Amount": "3.98"
+          },
+          {
+            "Date": "2014-10-13T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Gergana I",
+            "Narrative": "Coffee",
+            "Amount": "11.65"
+          },
+          {
+            "Date": "2013-09-18T21:00:00.000Z",
+            "Amount": 5.52,
+            "From": "Ben B",
+            "To": "Gergana I",
+            "Narrative": "Beers"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 19.4,
+        "History": [
+          {
+            "Date": "2014-05-25T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Laura B",
+            "Narrative": "Lunch",
+            "Amount": "7.36"
+          },
+          {
+            "Date": "2014-12-27T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Laura B",
+            "Narrative": "Coffee",
+            "Amount": "1.44"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.6,
+            "From": "Ben B",
+            "To": "Laura B",
+            "Narrative": "Audit and Other Financial Services"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 40.95,
+        "History": [
+          {
+            "Date": "2014-06-19T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Rails Consultancy",
+            "Amount": "1.34"
+          },
+          {
+            "Date": "2014-08-28T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Lunch",
+            "Amount": "1.66"
+          },
+          {
+            "Date": "2013-02-11T22:00:00.000Z",
+            "Amount": 5.76,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2013-04-26T21:00:00.000Z",
+            "Amount": 9.91,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Rails Consultancy"
+          },
+          {
+            "Date": "2013-10-11T21:00:00.000Z",
+            "Amount": 7.78,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Jenkins Fees"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 11.72,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.45,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Golf Bets"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.33,
+            "From": "Ben B",
+            "To": "Chris W",
+            "Narrative": "Services Rendered"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 11.379999999999999,
+        "History": [
+          {
+            "Date": "2014-08-22T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Stephen S",
+            "Narrative": "Lunch",
+            "Amount": "5.02"
+          },
+          {
+            "Date": "2013-03-27T22:00:00.000Z",
+            "Amount": 6.36,
+            "From": "Ben B",
+            "To": "Stephen S",
+            "Narrative": "Sandbox Help"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 8.870000000000001,
+        "History": [
+          {
+            "Date": "2014-09-28T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Tim L",
+            "Narrative": "Misc Morale",
+            "Amount": "3.43"
+          },
+          {
+            "Date": "2013-04-23T21:00:00.000Z",
+            "Amount": 1.15,
+            "From": "Ben B",
+            "To": "Tim L",
+            "Narrative": "Fantasy Football"
+          },
+          {
+            "Date": "2013-07-26T21:00:00.000Z",
+            "Amount": 4.29,
+            "From": "Ben B",
+            "To": "Tim L",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 40.46,
+        "History": [
+          {
+            "Date": "2014-10-03T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Lunch",
+            "Amount": "11.28"
+          },
+          {
+            "Date": "2015-01-10T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Lunch",
+            "Amount": "7.33"
+          },
+          {
+            "Date": "2013-07-29T21:00:00.000Z",
+            "Amount": 0.69,
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Beers"
+          },
+          {
+            "Date": "2013-07-31T21:00:00.000Z",
+            "Amount": 11.18,
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-11-27T22:00:00.000Z",
+            "Amount": 2.15,
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Golf Bets"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 7.83,
+            "From": "Ben B",
+            "To": "Todd",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 25.7,
+        "History": [
+          {
+            "Date": "2015-01-06T22:00:00.000Z",
+            "From": "Ben B",
+            "To": "Jon A",
+            "Narrative": "Fantasy Football",
+            "Amount": "9.93"
+          },
+          {
+            "Date": "2015-04-26T21:00:00.000Z",
+            "From": "Ben B",
+            "To": "Jon A",
+            "Narrative": "Pokemon Training",
+            "Amount": "10.91"
+          },
+          {
+            "Date": "2013-01-24T22:00:00.000Z",
+            "Amount": 4.86,
+            "From": "Ben B",
+            "To": "Jon A",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 21.44,
+        "History": [
+          {
+            "Date": "2013-03-07T22:00:00.000Z",
+            "Amount": 6.2,
+            "From": "Ben B",
+            "To": "Sarah T",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2013-06-12T21:00:00.000Z",
+            "Amount": 5.15,
+            "From": "Ben B",
+            "To": "Sarah T",
+            "Narrative": "Poker Winnings"
+          },
+          {
+            "Date": "2013-11-06T22:00:00.000Z",
+            "Amount": 10.09,
+            "From": "Ben B",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 29.050000000000004,
+        "History": [
+          {
+            "Date": "2013-04-30T21:00:00.000Z",
+            "Amount": 9.85,
+            "From": "Ben B",
+            "To": "Dan W",
+            "Narrative": "Git-Fu Rendered"
+          },
+          {
+            "Date": "2013-05-13T21:00:00.000Z",
+            "Amount": 9.96,
+            "From": "Ben B",
+            "To": "Dan W",
+            "Narrative": "Rails Consultancy"
+          },
+          {
+            "Date": "2013-06-15T21:00:00.000Z",
+            "Amount": 9.24,
+            "From": "Ben B",
+            "To": "Dan W",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    }
+  ],
+  "Gergana I": [
+    {
+      "Sam N": {
+        "Debt": 12.24,
+        "History": [
+          {
+            "Date": "2014-07-13T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Sam N",
+            "Narrative": "Coffee",
+            "Amount": "10.92"
+          },
+          {
+            "Date": "2013-12-21T22:00:00.000Z",
+            "Amount": 1.32,
+            "From": "Gergana I",
+            "To": "Sam N",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Stephen S": {
+        "Debt": 34.33,
+        "History": [
+          {
+            "Date": "2014-07-17T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Stephen S",
+            "Narrative": "Snooker Night",
+            "Amount": "11.57"
+          },
+          {
+            "Date": "2014-08-24T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Stephen S",
+            "Narrative": "Beers",
+            "Amount": "8.57"
+          },
+          {
+            "Date": "2013-03-01T22:00:00.000Z",
+            "Amount": 1.73,
+            "From": "Gergana I",
+            "To": "Stephen S",
+            "Narrative": "Audit and Other Financial Services"
+          },
+          {
+            "Date": "2013-03-23T22:00:00.000Z",
+            "Amount": 2.39,
+            "From": "Gergana I",
+            "To": "Stephen S",
+            "Narrative": "Coffee"
+          },
+          {
+            "Date": "2013-08-07T21:00:00.000Z",
+            "Amount": 10.07,
+            "From": "Gergana I",
+            "To": "Stephen S",
+            "Narrative": "Lunch"
+          }
+        ]
+      }
+    },
+    {
+      "Chris W": {
+        "Debt": 39.08,
+        "History": [
+          {
+            "Date": "2014-07-27T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Chris W",
+            "Narrative": "Pokemon Training",
+            "Amount": "2.33"
+          },
+          {
+            "Date": "2015-01-23T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Chris W",
+            "Narrative": "Coffee",
+            "Amount": "8.49"
+          },
+          {
+            "Date": "2013-08-12T21:00:00.000Z",
+            "Amount": 9.96,
+            "From": "Gergana I",
+            "To": "Chris W",
+            "Narrative": "Sandcastle Help"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.01,
+            "From": "Gergana I",
+            "To": "Chris W",
+            "Narrative": "Arcade Social"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.29,
+            "From": "Gergana I",
+            "To": "Chris W",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Ben B": {
+        "Debt": 50.2,
+        "History": [
+          {
+            "Date": "2014-08-03T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Coffee",
+            "Amount": "7.81"
+          },
+          {
+            "Date": "2015-03-24T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Automated Testing Services",
+            "Amount": "2.39"
+          },
+          {
+            "Date": "2015-03-28T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Audit and Other Financial Services",
+            "Amount": "10.85"
+          },
+          {
+            "Date": "2013-04-17T21:00:00.000Z",
+            "Amount": 9.07,
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2013-08-15T21:00:00.000Z",
+            "Amount": 10.91,
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Misc Morale"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.17,
+            "From": "Gergana I",
+            "To": "Ben B",
+            "Narrative": "Coffee"
+          }
+        ]
+      }
+    },
+    {
+      "Rob S": {
+        "Debt": 25.240000000000002,
+        "History": [
+          {
+            "Date": "2014-09-15T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Golf Bets",
+            "Amount": "1.28"
+          },
+          {
+            "Date": "2014-10-17T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Jenkins Fees",
+            "Amount": "5.47"
+          },
+          {
+            "Date": "2014-12-05T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Lego Assistance",
+            "Amount": "5.64"
+          },
+          {
+            "Date": "2013-03-19T22:00:00.000Z",
+            "Amount": 2.85,
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Stationary Items"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 3.67,
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 6.33,
+            "From": "Gergana I",
+            "To": "Rob S",
+            "Narrative": "Lego Assistance"
+          }
+        ]
+      }
+    },
+    {
+      "Dan W": {
+        "Debt": 5.04,
+        "History": [
+          {
+            "Date": "2014-10-27T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Dan W",
+            "Narrative": "Misc Morale",
+            "Amount": "5.04"
+          }
+        ]
+      }
+    },
+    {
+      "Laura B": {
+        "Debt": 32.26,
+        "History": [
+          {
+            "Date": "2014-12-13T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Lunch",
+            "Amount": "4.26"
+          },
+          {
+            "Date": "2014-12-20T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Pokemon Training",
+            "Amount": "6.86"
+          },
+          {
+            "Date": "2015-04-11T21:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Stationary Items",
+            "Amount": "8.37"
+          },
+          {
+            "Date": "2013-08-30T21:00:00.000Z",
+            "Amount": 5.54,
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Pokemon Training"
+          },
+          {
+            "Date": "2013-10-07T21:00:00.000Z",
+            "Amount": 5.33,
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 1.9,
+            "From": "Gergana I",
+            "To": "Laura B",
+            "Narrative": "Snooker Night"
+          }
+        ]
+      }
+    },
+    {
+      "Todd": {
+        "Debt": 0.8,
+        "History": [
+          {
+            "Date": "2015-01-21T22:00:00.000Z",
+            "From": "Gergana I",
+            "To": "Todd",
+            "Narrative": "Coffee",
+            "Amount": "0.8"
+          }
+        ]
+      }
+    },
+    {
+      "Sarah T": {
+        "Debt": 5.92,
+        "History": [
+          {
+            "Date": "2013-04-10T21:00:00.000Z",
+            "Amount": 3,
+            "From": "Gergana I",
+            "To": "Sarah T",
+            "Narrative": "Lunch"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 2.92,
+            "From": "Gergana I",
+            "To": "Sarah T",
+            "Narrative": "Misc Morale"
+          }
+        ]
+      }
+    },
+    {
+      "Tim L": {
+        "Debt": 13,
+        "History": [
+          {
+            "Date": "2013-05-08T21:00:00.000Z",
+            "Amount": 2.27,
+            "From": "Gergana I",
+            "To": "Tim L",
+            "Narrative": "White Water Rafting"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 10.73,
+            "From": "Gergana I",
+            "To": "Tim L",
+            "Narrative": "Arcade Social"
+          }
+        ]
+      }
+    },
+    {
+      "Jon A": {
+        "Debt": 10.020000000000001,
+        "History": [
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 9.22,
+            "From": "Gergana I",
+            "To": "Jon A",
+            "Narrative": "Snooker Night"
+          },
+          {
+            "Date": "2023-06-27T12:15:25.241Z",
+            "Amount": 0.8,
+            "From": "Gergana I",
+            "To": "Jon A",
+            "Narrative": "Git-Fu Rendered"
+          }
+        ]
+      }
+    }
+  ]
+}

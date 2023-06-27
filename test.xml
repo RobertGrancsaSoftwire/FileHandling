@@ -1,0 +1,4099 @@
+<Jon A>
+  <Sarah T>
+    <Debt>27.630000000000003</Debt>
+    <History>
+      <Date>01/01/2014</Date>
+      <From>Jon A</From>
+      <To>Sarah T</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>7.8</Amount>
+    </History>
+    <History>
+      <Date>18/01/2015</Date>
+      <From>Jon A</From>
+      <To>Sarah T</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>10.73</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.1</Amount>
+      <From>Jon A</From>
+      <To>Sarah T</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+  </Sarah T>
+</Jon A>
+<Jon A>
+  <Sam N>
+    <Debt>32.32</Debt>
+    <History>
+      <Date>07/02/2014</Date>
+      <From>Jon A</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+      <Amount>1.65</Amount>
+    </History>
+    <History>
+      <Date>23/03/2014</Date>
+      <From>Jon A</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>8.49</Amount>
+    </History>
+    <History>
+      <Date>29/07/2014</Date>
+      <From>Jon A</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>5.31</Amount>
+    </History>
+    <History>
+      <Date>02/12/2014</Date>
+      <From>Jon A</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>11.04</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.83</Amount>
+      <From>Jon A</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Sam N>
+</Jon A>
+<Jon A>
+  <Stephen S>
+    <Debt>8.91</Debt>
+    <History>
+      <Date>06/04/2014</Date>
+      <From>Jon A</From>
+      <To>Stephen S</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.91</Amount>
+    </History>
+  </Stephen S>
+</Jon A>
+<Jon A>
+  <Gergana I>
+    <Debt>29.200000000000003</Debt>
+    <History>
+      <Date>03/05/2014</Date>
+      <From>Jon A</From>
+      <To>Gergana I</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>10.51</Amount>
+    </History>
+    <History>
+      <Date>21/03/2015</Date>
+      <From>Jon A</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>7.54</Amount>
+    </History>
+    <History>
+      <Date>2013-01-01T00:00:00</Date>
+      <Amount>2.14</Amount>
+      <From>Jon A</From>
+      <To>Gergana I</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.01</Amount>
+      <From>Jon A</From>
+      <To>Gergana I</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Gergana I>
+</Jon A>
+<Jon A>
+  <Todd>
+    <Debt>27.669999999999995</Debt>
+    <History>
+      <Date>19/05/2014</Date>
+      <From>Jon A</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+      <Amount>9.04</Amount>
+    </History>
+    <History>
+      <Date>26/04/2015</Date>
+      <From>Jon A</From>
+      <To>Todd</To>
+      <Narrative>Stationary Items</Narrative>
+      <Amount>8.44</Amount>
+    </History>
+    <History>
+      <Date>2013-12-02T00:00:00</Date>
+      <Amount>10.19</Amount>
+      <From>Jon A</From>
+      <To>Todd</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Todd>
+</Jon A>
+<Jon A>
+  <Dan W>
+    <Debt>31.36</Debt>
+    <History>
+      <Date>16/07/2014</Date>
+      <From>Jon A</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>11.75</Amount>
+    </History>
+    <History>
+      <Date>30/09/2014</Date>
+      <From>Jon A</From>
+      <To>Dan W</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>9.26</Amount>
+    </History>
+    <History>
+      <Date>23/10/2014</Date>
+      <From>Jon A</From>
+      <To>Dan W</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>2.37</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.98</Amount>
+      <From>Jon A</From>
+      <To>Dan W</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+  </Dan W>
+</Jon A>
+<Jon A>
+  <Tim L>
+    <Debt>40.14000000000001</Debt>
+    <History>
+      <Date>18/08/2014</Date>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>7.22</Amount>
+    </History>
+    <History>
+      <Date>03/09/2014</Date>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>8.13</Amount>
+    </History>
+    <History>
+      <Date>2013-11-15T00:00:00</Date>
+      <Amount>9.13</Amount>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.79</Amount>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.99</Amount>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.88</Amount>
+      <From>Jon A</From>
+      <To>Tim L</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+  </Tim L>
+</Jon A>
+<Jon A>
+  <Ben B>
+    <Debt>14.85</Debt>
+    <History>
+      <Date>20/09/2014</Date>
+      <From>Jon A</From>
+      <To>Ben B</To>
+      <Narrative>Beers</Narrative>
+      <Amount>3.71</Amount>
+    </History>
+    <History>
+      <Date>11/11/2014</Date>
+      <From>Jon A</From>
+      <To>Ben B</To>
+      <Narrative>Stationary Items</Narrative>
+      <Amount>0.73</Amount>
+    </History>
+    <History>
+      <Date>2013-06-12T00:00:00</Date>
+      <Amount>6.75</Amount>
+      <From>Jon A</From>
+      <To>Ben B</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.66</Amount>
+      <From>Jon A</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Ben B>
+</Jon A>
+<Jon A>
+  <Laura B>
+    <Debt>6.8100000000000005</Debt>
+    <History>
+      <Date>24/09/2014</Date>
+      <From>Jon A</From>
+      <To>Laura B</To>
+      <Narrative>Golf Bets</Narrative>
+      <Amount>5.61</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.2</Amount>
+      <From>Jon A</From>
+      <To>Laura B</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+  </Laura B>
+</Jon A>
+<Jon A>
+  <Chris W>
+    <Debt>35.67</Debt>
+    <History>
+      <Date>09/12/2014</Date>
+      <From>Jon A</From>
+      <To>Chris W</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>2.26</Amount>
+    </History>
+    <History>
+      <Date>07/02/2015</Date>
+      <From>Jon A</From>
+      <To>Chris W</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>7.37</Amount>
+    </History>
+    <History>
+      <Date>2013-02-27T00:00:00</Date>
+      <Amount>10.58</Amount>
+      <From>Jon A</From>
+      <To>Chris W</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-28T00:00:00</Date>
+      <Amount>5.99</Amount>
+      <From>Jon A</From>
+      <To>Chris W</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.47</Amount>
+      <From>Jon A</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Chris W>
+</Jon A>
+<Jon A>
+  <Rob S>
+    <Debt>27.479999999999997</Debt>
+    <History>
+      <Date>2013-07-07T00:00:00</Date>
+      <Amount>6.69</Amount>
+      <From>Jon A</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-07T00:00:00</Date>
+      <Amount>10.78</Amount>
+      <From>Jon A</From>
+      <To>Rob S</To>
+      <Narrative>Poker Winnings</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.01</Amount>
+      <From>Jon A</From>
+      <To>Rob S</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+  </Rob S>
+</Jon A>
+<Stephen S>
+  <Tim L>
+    <Debt>34.01</Debt>
+    <History>
+      <Date>04/01/2014</Date>
+      <From>Stephen S</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>4.37</Amount>
+    </History>
+    <History>
+      <Date>28/03/2015</Date>
+      <From>Stephen S</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>5.83</Amount>
+    </History>
+    <History>
+      <Date>2013-01-05T00:00:00</Date>
+      <Amount>10.57</Amount>
+      <From>Stephen S</From>
+      <To>Tim L</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.38</Amount>
+      <From>Stephen S</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.86</Amount>
+      <From>Stephen S</From>
+      <To>Tim L</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Tim L>
+</Stephen S>
+<Stephen S>
+  <Ben B>
+    <Debt>33.730000000000004</Debt>
+    <History>
+      <Date>14/01/2014</Date>
+      <From>Stephen S</From>
+      <To>Ben B</To>
+      <Narrative>Beers</Narrative>
+      <Amount>7.36</Amount>
+    </History>
+    <History>
+      <Date>23/06/2014</Date>
+      <From>Stephen S</From>
+      <To>Ben B</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>11.85</Amount>
+    </History>
+    <History>
+      <Date>2013-01-28T00:00:00</Date>
+      <Amount>1.92</Amount>
+      <From>Stephen S</From>
+      <To>Ben B</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+    <History>
+      <Date>2013-05-29T00:00:00</Date>
+      <Amount>1.51</Amount>
+      <From>Stephen S</From>
+      <To>Ben B</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.09</Amount>
+      <From>Stephen S</From>
+      <To>Ben B</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Ben B>
+</Stephen S>
+<Stephen S>
+  <Gergana I>
+    <Debt>41.6</Debt>
+    <History>
+      <Date>19/01/2014</Date>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>5.88</Amount>
+    </History>
+    <History>
+      <Date>15/02/2014</Date>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>6.91</Amount>
+    </History>
+    <History>
+      <Date>04/01/2015</Date>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>3.22</Amount>
+    </History>
+    <History>
+      <Date>06/03/2015</Date>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>9.4</Amount>
+    </History>
+    <History>
+      <Date>2013-07-16T00:00:00</Date>
+      <Amount>6.95</Amount>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.1</Amount>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.14</Amount>
+      <From>Stephen S</From>
+      <To>Gergana I</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Gergana I>
+</Stephen S>
+<Stephen S>
+  <Jon A>
+    <Debt>51.42999999999999</Debt>
+    <History>
+      <Date>01/03/2014</Date>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>8.75</Amount>
+    </History>
+    <History>
+      <Date>26/02/2015</Date>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>4.23</Amount>
+    </History>
+    <History>
+      <Date>11/03/2015</Date>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Sandcastle Help</Narrative>
+      <Amount>11.57</Amount>
+    </History>
+    <History>
+      <Date>2013-04-25T00:00:00</Date>
+      <Amount>2.47</Amount>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-04-26T00:00:00</Date>
+      <Amount>9.1</Amount>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-23T00:00:00</Date>
+      <Amount>6.12</Amount>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.55</Amount>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.64</Amount>
+      <From>Stephen S</From>
+      <To>Jon A</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Jon A>
+</Stephen S>
+<Stephen S>
+  <Sam N>
+    <Debt>34.480000000000004</Debt>
+    <History>
+      <Date>08/04/2014</Date>
+      <From>Stephen S</From>
+      <To>Sam N</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>2.96</Amount>
+    </History>
+    <History>
+      <Date>11/06/2014</Date>
+      <From>Stephen S</From>
+      <To>Sam N</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>5.14</Amount>
+    </History>
+    <History>
+      <Date>2013-05-22T00:00:00</Date>
+      <Amount>9.24</Amount>
+      <From>Stephen S</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>2013-07-05T00:00:00</Date>
+      <Amount>6.73</Amount>
+      <From>Stephen S</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.41</Amount>
+      <From>Stephen S</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sam N>
+</Stephen S>
+<Stephen S>
+  <Rob S>
+    <Debt>32.879999999999995</Debt>
+    <History>
+      <Date>23/04/2014</Date>
+      <From>Stephen S</From>
+      <To>Rob S</To>
+      <Narrative>Poker Winnings</Narrative>
+      <Amount>3.41</Amount>
+    </History>
+    <History>
+      <Date>11/08/2014</Date>
+      <From>Stephen S</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>8.91</Amount>
+    </History>
+    <History>
+      <Date>02/02/2015</Date>
+      <From>Stephen S</From>
+      <To>Rob S</To>
+      <Narrative>Fantasy Football</Narrative>
+      <Amount>7.43</Amount>
+    </History>
+    <History>
+      <Date>18/02/2015</Date>
+      <From>Stephen S</From>
+      <To>Rob S</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>4.83</Amount>
+    </History>
+    <History>
+      <Date>2013-11-05T00:00:00</Date>
+      <Amount>8.3</Amount>
+      <From>Stephen S</From>
+      <To>Rob S</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+  </Rob S>
+</Stephen S>
+<Stephen S>
+  <Dan W>
+    <Debt>38.33</Debt>
+    <History>
+      <Date>16/06/2014</Date>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>4.79</Amount>
+    </History>
+    <History>
+      <Date>02/07/2014</Date>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>2.9</Amount>
+    </History>
+    <History>
+      <Date>2013-03-27T00:00:00</Date>
+      <Amount>7.82</Amount>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>2013-09-22T00:00:00</Date>
+      <Amount>9.28</Amount>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+    <History>
+      <Date>2013-09-23T00:00:00</Date>
+      <Amount>5.13</Amount>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.41</Amount>
+      <From>Stephen S</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Dan W>
+</Stephen S>
+<Stephen S>
+  <Laura B>
+    <Debt>14.690000000000001</Debt>
+    <History>
+      <Date>01/02/2015</Date>
+      <From>Stephen S</From>
+      <To>Laura B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>7.53</Amount>
+    </History>
+    <History>
+      <Date>2013-09-13T00:00:00</Date>
+      <Amount>1.96</Amount>
+      <From>Stephen S</From>
+      <To>Laura B</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.2</Amount>
+      <From>Stephen S</From>
+      <To>Laura B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Laura B>
+</Stephen S>
+<Stephen S>
+  <Chris W>
+    <Debt>39.910000000000004</Debt>
+    <History>
+      <Date>02/04/2015</Date>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>1.11</Amount>
+    </History>
+    <History>
+      <Date>19/04/2015</Date>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>White Water Rafting</Narrative>
+      <Amount>8.91</Amount>
+    </History>
+    <History>
+      <Date>2013-04-05T00:00:00</Date>
+      <Amount>3.4</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-05-25T00:00:00</Date>
+      <Amount>2.85</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-11T00:00:00</Date>
+      <Amount>7.27</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-21T00:00:00</Date>
+      <Amount>2.53</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.89</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.95</Amount>
+      <From>Stephen S</From>
+      <To>Chris W</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+  </Chris W>
+</Stephen S>
+<Stephen S>
+  <Todd>
+    <Debt>27.26</Debt>
+    <History>
+      <Date>2013-02-10T00:00:00</Date>
+      <Amount>10.4</Amount>
+      <From>Stephen S</From>
+      <To>Todd</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-27T00:00:00</Date>
+      <Amount>4.34</Amount>
+      <From>Stephen S</From>
+      <To>Todd</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.72</Amount>
+      <From>Stephen S</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.8</Amount>
+      <From>Stephen S</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Todd>
+</Stephen S>
+<Stephen S>
+  <Sarah T>
+    <Debt>16.740000000000002</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.67</Amount>
+      <From>Stephen S</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.07</Amount>
+      <From>Stephen S</From>
+      <To>Sarah T</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+  </Sarah T>
+</Stephen S>
+<Laura B>
+  <Stephen S>
+    <Debt>43.96</Debt>
+    <History>
+      <Date>08/01/2014</Date>
+      <From>Laura B</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>5.09</Amount>
+    </History>
+    <History>
+      <Date>14/02/2014</Date>
+      <From>Laura B</From>
+      <To>Stephen S</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>10.78</Amount>
+    </History>
+    <History>
+      <Date>25/07/2014</Date>
+      <From>Laura B</From>
+      <To>Stephen S</To>
+      <Narrative>Poker Winnings</Narrative>
+      <Amount>9.42</Amount>
+    </History>
+    <History>
+      <Date>24/08/2014</Date>
+      <From>Laura B</From>
+      <To>Stephen S</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+      <Amount>7.45</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.22</Amount>
+      <From>Laura B</From>
+      <To>Stephen S</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Stephen S>
+</Laura B>
+<Laura B>
+  <Sam N>
+    <Debt>28.58</Debt>
+    <History>
+      <Date>24/01/2014</Date>
+      <From>Laura B</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>11.68</Amount>
+    </History>
+    <History>
+      <Date>2013-03-06T00:00:00</Date>
+      <Amount>7.26</Amount>
+      <From>Laura B</From>
+      <To>Sam N</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.93</Amount>
+      <From>Laura B</From>
+      <To>Sam N</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.71</Amount>
+      <From>Laura B</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sam N>
+</Laura B>
+<Laura B>
+  <Ben B>
+    <Debt>22.88</Debt>
+    <History>
+      <Date>30/04/2014</Date>
+      <From>Laura B</From>
+      <To>Ben B</To>
+      <Narrative>Golf Bets</Narrative>
+      <Amount>5.77</Amount>
+    </History>
+    <History>
+      <Date>12/01/2015</Date>
+      <From>Laura B</From>
+      <To>Ben B</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.94</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.17</Amount>
+      <From>Laura B</From>
+      <To>Ben B</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+  </Ben B>
+</Laura B>
+<Laura B>
+  <Todd>
+    <Debt>46.67</Debt>
+    <History>
+      <Date>10/05/2014</Date>
+      <From>Laura B</From>
+      <To>Todd</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>10.63</Amount>
+    </History>
+    <History>
+      <Date>30/05/2014</Date>
+      <From>Laura B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>7.01</Amount>
+    </History>
+    <History>
+      <Date>25/10/2014</Date>
+      <From>Laura B</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.42</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.36</Amount>
+      <From>Laura B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.25</Amount>
+      <From>Laura B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Todd>
+</Laura B>
+<Laura B>
+  <Rob S>
+    <Debt>31.4</Debt>
+    <History>
+      <Date>03/08/2014</Date>
+      <From>Laura B</From>
+      <To>Rob S</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>6.26</Amount>
+    </History>
+    <History>
+      <Date>2013-10-16T00:00:00</Date>
+      <Amount>5.71</Amount>
+      <From>Laura B</From>
+      <To>Rob S</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.7</Amount>
+      <From>Laura B</From>
+      <To>Rob S</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.73</Amount>
+      <From>Laura B</From>
+      <To>Rob S</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+  </Rob S>
+</Laura B>
+<Laura B>
+  <Tim L>
+    <Debt>30.259999999999998</Debt>
+    <History>
+      <Date>28/08/2014</Date>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Beers</Narrative>
+      <Amount>0.57</Amount>
+    </History>
+    <History>
+      <Date>27/01/2015</Date>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Jenkins Fees</Narrative>
+      <Amount>0.52</Amount>
+    </History>
+    <History>
+      <Date>13/04/2015</Date>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Services Rendered</Narrative>
+      <Amount>1.27</Amount>
+    </History>
+    <History>
+      <Date>2013-01-18T00:00:00</Date>
+      <Amount>7.17</Amount>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-05T00:00:00</Date>
+      <Amount>11.34</Amount>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-09T00:00:00</Date>
+      <Amount>9.39</Amount>
+      <From>Laura B</From>
+      <To>Tim L</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+  </Tim L>
+</Laura B>
+<Laura B>
+  <Jon A>
+    <Debt>30.919999999999998</Debt>
+    <History>
+      <Date>12/09/2014</Date>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+      <Amount>3.11</Amount>
+    </History>
+    <History>
+      <Date>19/11/2014</Date>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>2.61</Amount>
+    </History>
+    <History>
+      <Date>16/01/2015</Date>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>0.69</Amount>
+    </History>
+    <History>
+      <Date>04/03/2015</Date>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Sandcastle Help</Narrative>
+      <Amount>9.09</Amount>
+    </History>
+    <History>
+      <Date>2013-06-19T00:00:00</Date>
+      <Amount>3.68</Amount>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-17T00:00:00</Date>
+      <Amount>7.71</Amount>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.51</Amount>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.52</Amount>
+      <From>Laura B</From>
+      <To>Jon A</To>
+      <Narrative>Poker Winnings</Narrative>
+    </History>
+  </Jon A>
+</Laura B>
+<Laura B>
+  <Sarah T>
+    <Debt>22.479999999999997</Debt>
+    <History>
+      <Date>01/01/2015</Date>
+      <From>Laura B</From>
+      <To>Sarah T</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>10.54</Amount>
+    </History>
+    <History>
+      <Date>2013-05-18T00:00:00</Date>
+      <Amount>11.94</Amount>
+      <From>Laura B</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sarah T>
+</Laura B>
+<Laura B>
+  <Gergana I>
+    <Debt>6.56</Debt>
+    <History>
+      <Date>13/02/2015</Date>
+      <From>Laura B</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>6.56</Amount>
+    </History>
+  </Gergana I>
+</Laura B>
+<Laura B>
+  <Chris W>
+    <Debt>19.39</Debt>
+    <History>
+      <Date>19/03/2015</Date>
+      <From>Laura B</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>9.96</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.43</Amount>
+      <From>Laura B</From>
+      <To>Chris W</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+  </Chris W>
+</Laura B>
+<Laura B>
+  <Dan W>
+    <Debt>27.96</Debt>
+    <History>
+      <Date>2013-05-04T00:00:00</Date>
+      <Amount>1.34</Amount>
+      <From>Laura B</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.8</Amount>
+      <From>Laura B</From>
+      <To>Dan W</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.46</Amount>
+      <From>Laura B</From>
+      <To>Dan W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.74</Amount>
+      <From>Laura B</From>
+      <To>Dan W</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.62</Amount>
+      <From>Laura B</From>
+      <To>Dan W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Dan W>
+</Laura B>
+<Rob S>
+  <Ben B>
+    <Debt>22.28</Debt>
+    <History>
+      <Date>11/01/2014</Date>
+      <From>Rob S</From>
+      <To>Ben B</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>7.8</Amount>
+    </History>
+    <History>
+      <Date>07/11/2014</Date>
+      <From>Rob S</From>
+      <To>Ben B</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>3</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.85</Amount>
+      <From>Rob S</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.63</Amount>
+      <From>Rob S</From>
+      <To>Ben B</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+  </Ben B>
+</Rob S>
+<Rob S>
+  <Tim L>
+    <Debt>40.669999999999995</Debt>
+    <History>
+      <Date>22/03/2014</Date>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>1.95</Amount>
+    </History>
+    <History>
+      <Date>23/07/2014</Date>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>11.47</Amount>
+    </History>
+    <History>
+      <Date>2013-04-01T00:00:00</Date>
+      <Amount>4.77</Amount>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-09T00:00:00</Date>
+      <Amount>11</Amount>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-13T00:00:00</Date>
+      <Amount>9.19</Amount>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.29</Amount>
+      <From>Rob S</From>
+      <To>Tim L</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+  </Tim L>
+</Rob S>
+<Rob S>
+  <Sam N>
+    <Debt>25.59</Debt>
+    <History>
+      <Date>15/04/2014</Date>
+      <From>Rob S</From>
+      <To>Sam N</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>8.86</Amount>
+    </History>
+    <History>
+      <Date>2013-11-12T00:00:00</Date>
+      <Amount>1.25</Amount>
+      <From>Rob S</From>
+      <To>Sam N</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-30T00:00:00</Date>
+      <Amount>2.54</Amount>
+      <From>Rob S</From>
+      <To>Sam N</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.6</Amount>
+      <From>Rob S</From>
+      <To>Sam N</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.34</Amount>
+      <From>Rob S</From>
+      <To>Sam N</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Sam N>
+</Rob S>
+<Rob S>
+  <Sarah T>
+    <Debt>19.19</Debt>
+    <History>
+      <Date>17/05/2014</Date>
+      <From>Rob S</From>
+      <To>Sarah T</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>3.61</Amount>
+    </History>
+    <History>
+      <Date>2013-06-26T00:00:00</Date>
+      <Amount>8.39</Amount>
+      <From>Rob S</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.19</Amount>
+      <From>Rob S</From>
+      <To>Sarah T</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Sarah T>
+</Rob S>
+<Rob S>
+  <Jon A>
+    <Debt>9.120000000000001</Debt>
+    <History>
+      <Date>01/07/2014</Date>
+      <From>Rob S</From>
+      <To>Jon A</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>2.67</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.45</Amount>
+      <From>Rob S</From>
+      <To>Jon A</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Jon A>
+</Rob S>
+<Rob S>
+  <Gergana I>
+    <Debt>5.800000000000001</Debt>
+    <History>
+      <Date>20/12/2014</Date>
+      <From>Rob S</From>
+      <To>Gergana I</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>1.07</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.73</Amount>
+      <From>Rob S</From>
+      <To>Gergana I</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+  </Gergana I>
+</Rob S>
+<Rob S>
+  <Stephen S>
+    <Debt>5.78</Debt>
+    <History>
+      <Date>04/02/2015</Date>
+      <From>Rob S</From>
+      <To>Stephen S</To>
+      <Narrative>Fantasy Football</Narrative>
+      <Amount>5.78</Amount>
+    </History>
+  </Stephen S>
+</Rob S>
+<Rob S>
+  <Laura B>
+    <Debt>10.95</Debt>
+    <History>
+      <Date>2013-02-07T00:00:00</Date>
+      <Amount>7.63</Amount>
+      <From>Rob S</From>
+      <To>Laura B</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>2013-09-07T00:00:00</Date>
+      <Amount>3.32</Amount>
+      <From>Rob S</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Laura B>
+</Rob S>
+<Rob S>
+  <Chris W>
+    <Debt>27.6</Debt>
+    <History>
+      <Date>2013-04-15T00:00:00</Date>
+      <Amount>5.49</Amount>
+      <From>Rob S</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-28T00:00:00</Date>
+      <Amount>11.13</Amount>
+      <From>Rob S</From>
+      <To>Chris W</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.98</Amount>
+      <From>Rob S</From>
+      <To>Chris W</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+  </Chris W>
+</Rob S>
+<Rob S>
+  <Dan W>
+    <Debt>11.36</Debt>
+    <History>
+      <Date>2013-06-05T00:00:00</Date>
+      <Amount>1.96</Amount>
+      <From>Rob S</From>
+      <To>Dan W</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-18T00:00:00</Date>
+      <Amount>9.4</Amount>
+      <From>Rob S</From>
+      <To>Dan W</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+  </Dan W>
+</Rob S>
+<Rob S>
+  <Todd>
+    <Debt>12.01</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.52</Amount>
+      <From>Rob S</From>
+      <To>Todd</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.49</Amount>
+      <From>Rob S</From>
+      <To>Todd</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Todd>
+</Rob S>
+<Sam N>
+  <Stephen S>
+    <Debt>19.83</Debt>
+    <History>
+      <Date>15/01/2014</Date>
+      <From>Sam N</From>
+      <To>Stephen S</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>11.63</Amount>
+    </History>
+    <History>
+      <Date>20/01/2014</Date>
+      <From>Sam N</From>
+      <To>Stephen S</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.2</Amount>
+    </History>
+  </Stephen S>
+</Sam N>
+<Sam N>
+  <Gergana I>
+    <Debt>42.47</Debt>
+    <History>
+      <Date>31/01/2014</Date>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Services Rendered</Narrative>
+      <Amount>6.29</Amount>
+    </History>
+    <History>
+      <Date>03/03/2014</Date>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>8.76</Amount>
+    </History>
+    <History>
+      <Date>01/08/2014</Date>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>2.72</Amount>
+    </History>
+    <History>
+      <Date>01/09/2014</Date>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>9.41</Amount>
+    </History>
+    <History>
+      <Date>10/02/2015</Date>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>9.84</Amount>
+    </History>
+    <History>
+      <Date>2013-08-27T00:00:00</Date>
+      <Amount>5.45</Amount>
+      <From>Sam N</From>
+      <To>Gergana I</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+  </Gergana I>
+</Sam N>
+<Sam N>
+  <Laura B>
+    <Debt>15.199999999999998</Debt>
+    <History>
+      <Date>01/04/2014</Date>
+      <From>Sam N</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>2.87</Amount>
+    </History>
+    <History>
+      <Date>09/11/2014</Date>
+      <From>Sam N</From>
+      <To>Laura B</To>
+      <Narrative>Beers</Narrative>
+      <Amount>7.76</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.13</Amount>
+      <From>Sam N</From>
+      <To>Laura B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.44</Amount>
+      <From>Sam N</From>
+      <To>Laura B</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+  </Laura B>
+</Sam N>
+<Sam N>
+  <Tim L>
+    <Debt>8.8</Debt>
+    <History>
+      <Date>24/05/2014</Date>
+      <From>Sam N</From>
+      <To>Tim L</To>
+      <Narrative>Sandcastle Help</Narrative>
+      <Amount>8.8</Amount>
+    </History>
+  </Tim L>
+</Sam N>
+<Sam N>
+  <Jon A>
+    <Debt>14.620000000000001</Debt>
+    <History>
+      <Date>06/07/2014</Date>
+      <From>Sam N</From>
+      <To>Jon A</To>
+      <Narrative>Beers</Narrative>
+      <Amount>4.37</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.25</Amount>
+      <From>Sam N</From>
+      <To>Jon A</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Jon A>
+</Sam N>
+<Sam N>
+  <Dan W>
+    <Debt>26.03</Debt>
+    <History>
+      <Date>14/11/2014</Date>
+      <From>Sam N</From>
+      <To>Dan W</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>0.8</Amount>
+    </History>
+    <History>
+      <Date>2013-10-27T00:00:00</Date>
+      <Amount>6.89</Amount>
+      <From>Sam N</From>
+      <To>Dan W</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.98</Amount>
+      <From>Sam N</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.81</Amount>
+      <From>Sam N</From>
+      <To>Dan W</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.55</Amount>
+      <From>Sam N</From>
+      <To>Dan W</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+  </Dan W>
+</Sam N>
+<Sam N>
+  <Chris W>
+    <Debt>23.049999999999997</Debt>
+    <History>
+      <Date>18/11/2014</Date>
+      <From>Sam N</From>
+      <To>Chris W</To>
+      <Narrative>Golf Bets</Narrative>
+      <Amount>6.44</Amount>
+    </History>
+    <History>
+      <Date>29/01/2015</Date>
+      <From>Sam N</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>9.01</Amount>
+    </History>
+    <History>
+      <Date>2013-02-15T00:00:00</Date>
+      <Amount>1.54</Amount>
+      <From>Sam N</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.06</Amount>
+      <From>Sam N</From>
+      <To>Chris W</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+  </Chris W>
+</Sam N>
+<Sam N>
+  <Sarah T>
+    <Debt>29.13</Debt>
+    <History>
+      <Date>2013-02-04T00:00:00</Date>
+      <Amount>5.52</Amount>
+      <From>Sam N</From>
+      <To>Sarah T</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-20T00:00:00</Date>
+      <Amount>10.6</Amount>
+      <From>Sam N</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-01T00:00:00</Date>
+      <Amount>6.35</Amount>
+      <From>Sam N</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.66</Amount>
+      <From>Sam N</From>
+      <To>Sarah T</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Sarah T>
+</Sam N>
+<Sam N>
+  <Rob S>
+    <Debt>7.48</Debt>
+    <History>
+      <Date>2013-09-16T00:00:00</Date>
+      <Amount>2.81</Amount>
+      <From>Sam N</From>
+      <To>Rob S</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.67</Amount>
+      <From>Sam N</From>
+      <To>Rob S</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Rob S>
+</Sam N>
+<Sam N>
+  <Todd>
+    <Debt>5.43</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.43</Amount>
+      <From>Sam N</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Todd>
+</Sam N>
+<Todd>
+  <Ben B>
+    <Debt>75.01</Debt>
+    <History>
+      <Date>28/01/2014</Date>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>6.81</Amount>
+    </History>
+    <History>
+      <Date>01/02/2014</Date>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>6.87</Amount>
+    </History>
+    <History>
+      <Date>04/04/2014</Date>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>10.85</Amount>
+    </History>
+    <History>
+      <Date>2013-05-13T00:00:00</Date>
+      <Amount>11.07</Amount>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-02T00:00:00</Date>
+      <Amount>11.83</Amount>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-19T00:00:00</Date>
+      <Amount>8.72</Amount>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.46</Amount>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.4</Amount>
+      <From>Todd</From>
+      <To>Ben B</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+  </Ben B>
+</Todd>
+<Todd>
+  <Rob S>
+    <Debt>47.42999999999999</Debt>
+    <History>
+      <Date>05/02/2014</Date>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>5.62</Amount>
+    </History>
+    <History>
+      <Date>25/02/2014</Date>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Automated Testing Services</Narrative>
+      <Amount>7.1</Amount>
+    </History>
+    <History>
+      <Date>25/12/2014</Date>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>1.86</Amount>
+    </History>
+    <History>
+      <Date>15/01/2015</Date>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Beers</Narrative>
+      <Amount>10.19</Amount>
+    </History>
+    <History>
+      <Date>2013-01-09T00:00:00</Date>
+      <Amount>8.19</Amount>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-26T00:00:00</Date>
+      <Amount>3.85</Amount>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-11T00:00:00</Date>
+      <Amount>10.62</Amount>
+      <From>Todd</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Rob S>
+</Todd>
+<Todd>
+  <Laura B>
+    <Debt>15.82</Debt>
+    <History>
+      <Date>07/03/2014</Date>
+      <From>Todd</From>
+      <To>Laura B</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>9.39</Amount>
+    </History>
+    <History>
+      <Date>11/04/2014</Date>
+      <From>Todd</From>
+      <To>Laura B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>3.72</Amount>
+    </History>
+    <History>
+      <Date>2013-01-15T00:00:00</Date>
+      <Amount>2.71</Amount>
+      <From>Todd</From>
+      <To>Laura B</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+  </Laura B>
+</Todd>
+<Todd>
+  <Gergana I>
+    <Debt>13.299999999999999</Debt>
+    <History>
+      <Date>10/03/2014</Date>
+      <From>Todd</From>
+      <To>Gergana I</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>1.62</Amount>
+    </History>
+    <History>
+      <Date>24/02/2015</Date>
+      <From>Todd</From>
+      <To>Gergana I</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>9.08</Amount>
+    </History>
+    <History>
+      <Date>2013-04-09T00:00:00</Date>
+      <Amount>2.6</Amount>
+      <From>Todd</From>
+      <To>Gergana I</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Gergana I>
+</Todd>
+<Todd>
+  <Sarah T>
+    <Debt>17.13</Debt>
+    <History>
+      <Date>29/03/2014</Date>
+      <From>Todd</From>
+      <To>Sarah T</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+      <Amount>5.01</Amount>
+    </History>
+    <History>
+      <Date>10/04/2014</Date>
+      <From>Todd</From>
+      <To>Sarah T</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>3.55</Amount>
+    </History>
+    <History>
+      <Date>23/11/2014</Date>
+      <From>Todd</From>
+      <To>Sarah T</To>
+      <Narrative>Beers</Narrative>
+      <Amount>2.24</Amount>
+    </History>
+    <History>
+      <Date>2013-01-13T00:00:00</Date>
+      <Amount>1.01</Amount>
+      <From>Todd</From>
+      <To>Sarah T</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-04-21T00:00:00</Date>
+      <Amount>5.32</Amount>
+      <From>Todd</From>
+      <To>Sarah T</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+  </Sarah T>
+</Todd>
+<Todd>
+  <Tim L>
+    <Debt>38.22</Debt>
+    <History>
+      <Date>26/04/2014</Date>
+      <From>Todd</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>1.46</Amount>
+    </History>
+    <History>
+      <Date>16/12/2014</Date>
+      <From>Todd</From>
+      <To>Tim L</To>
+      <Narrative>Poker Winnings</Narrative>
+      <Amount>7.17</Amount>
+    </History>
+    <History>
+      <Date>2013-10-01T00:00:00</Date>
+      <Amount>10.13</Amount>
+      <From>Todd</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.57</Amount>
+      <From>Todd</From>
+      <To>Tim L</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.89</Amount>
+      <From>Todd</From>
+      <To>Tim L</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+  </Tim L>
+</Todd>
+<Todd>
+  <Sam N>
+    <Debt>24.16</Debt>
+    <History>
+      <Date>14/06/2014</Date>
+      <From>Todd</From>
+      <To>Sam N</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>6.3</Amount>
+    </History>
+    <History>
+      <Date>15/03/2015</Date>
+      <From>Todd</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>2.29</Amount>
+    </History>
+    <History>
+      <Date>2013-08-23T00:00:00</Date>
+      <Amount>0.6</Amount>
+      <From>Todd</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.4</Amount>
+      <From>Todd</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.57</Amount>
+      <From>Todd</From>
+      <To>Sam N</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+  </Sam N>
+</Todd>
+<Todd>
+  <Dan W>
+    <Debt>33.22</Debt>
+    <History>
+      <Date>09/09/2014</Date>
+      <From>Todd</From>
+      <To>Dan W</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+      <Amount>3.93</Amount>
+    </History>
+    <History>
+      <Date>2013-05-06T00:00:00</Date>
+      <Amount>4.92</Amount>
+      <From>Todd</From>
+      <To>Dan W</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.44</Amount>
+      <From>Todd</From>
+      <To>Dan W</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.59</Amount>
+      <From>Todd</From>
+      <To>Dan W</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.34</Amount>
+      <From>Todd</From>
+      <To>Dan W</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Dan W>
+</Todd>
+<Todd>
+  <Chris W>
+    <Debt>33.6</Debt>
+    <History>
+      <Date>02/03/2015</Date>
+      <From>Todd</From>
+      <To>Chris W</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>1.92</Amount>
+    </History>
+    <History>
+      <Date>2013-03-14T00:00:00</Date>
+      <Amount>8.97</Amount>
+      <From>Todd</From>
+      <To>Chris W</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.88</Amount>
+      <From>Todd</From>
+      <To>Chris W</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.83</Amount>
+      <From>Todd</From>
+      <To>Chris W</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+  </Chris W>
+</Todd>
+<Todd>
+  <Jon A>
+    <Debt>1.96</Debt>
+    <History>
+      <Date>2013-03-12T00:00:00</Date>
+      <Amount>0.9</Amount>
+      <From>Todd</From>
+      <To>Jon A</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-06T00:00:00</Date>
+      <Amount>1.06</Amount>
+      <From>Todd</From>
+      <To>Jon A</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Jon A>
+</Todd>
+<Todd>
+  <Stephen S>
+    <Debt>4.15</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.15</Amount>
+      <From>Todd</From>
+      <To>Stephen S</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Stephen S>
+</Todd>
+<Chris W>
+  <Ben B>
+    <Debt>54.9</Debt>
+    <History>
+      <Date>04/02/2014</Date>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>6.03</Amount>
+    </History>
+    <History>
+      <Date>18/12/2014</Date>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>11.17</Amount>
+    </History>
+    <History>
+      <Date>05/04/2015</Date>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>0.96</Amount>
+    </History>
+    <History>
+      <Date>2013-06-27T00:00:00</Date>
+      <Amount>10.41</Amount>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>2013-09-03T00:00:00</Date>
+      <Amount>9.48</Amount>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-04T00:00:00</Date>
+      <Amount>5.96</Amount>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.89</Amount>
+      <From>Chris W</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Ben B>
+</Chris W>
+<Chris W>
+  <Todd>
+    <Debt>30.810000000000002</Debt>
+    <History>
+      <Date>26/06/2014</Date>
+      <From>Chris W</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+      <Amount>9.81</Amount>
+    </History>
+    <History>
+      <Date>21/11/2014</Date>
+      <From>Chris W</From>
+      <To>Todd</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>1.42</Amount>
+    </History>
+    <History>
+      <Date>2013-10-23T00:00:00</Date>
+      <Amount>3.42</Amount>
+      <From>Chris W</From>
+      <To>Todd</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.38</Amount>
+      <From>Chris W</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.78</Amount>
+      <From>Chris W</From>
+      <To>Todd</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+  </Todd>
+</Chris W>
+<Chris W>
+  <Laura B>
+    <Debt>14.77</Debt>
+    <History>
+      <Date>29/06/2014</Date>
+      <From>Chris W</From>
+      <To>Laura B</To>
+      <Narrative>Jenkins Fees</Narrative>
+      <Amount>8.7</Amount>
+    </History>
+    <History>
+      <Date>2013-03-22T00:00:00</Date>
+      <Amount>4.15</Amount>
+      <From>Chris W</From>
+      <To>Laura B</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.92</Amount>
+      <From>Chris W</From>
+      <To>Laura B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Laura B>
+</Chris W>
+<Chris W>
+  <Tim L>
+    <Debt>38.919999999999995</Debt>
+    <History>
+      <Date>14/08/2014</Date>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>6.59</Amount>
+    </History>
+    <History>
+      <Date>2013-02-22T00:00:00</Date>
+      <Amount>8.77</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-05-08T00:00:00</Date>
+      <Amount>5.94</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-22T00:00:00</Date>
+      <Amount>0.98</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>2013-07-13T00:00:00</Date>
+      <Amount>2.08</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-12T00:00:00</Date>
+      <Amount>11.44</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.12</Amount>
+      <From>Chris W</From>
+      <To>Tim L</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Tim L>
+</Chris W>
+<Chris W>
+  <Sam N>
+    <Debt>1.9</Debt>
+    <History>
+      <Date>22/08/2014</Date>
+      <From>Chris W</From>
+      <To>Sam N</To>
+      <Narrative>Golf Bets</Narrative>
+      <Amount>1.9</Amount>
+    </History>
+  </Sam N>
+</Chris W>
+<Chris W>
+  <Gergana I>
+    <Debt>8.9</Debt>
+    <History>
+      <Date>30/10/2014</Date>
+      <From>Chris W</From>
+      <To>Gergana I</To>
+      <Narrative>Jenkins Fees</Narrative>
+      <Amount>8.9</Amount>
+    </History>
+  </Gergana I>
+</Chris W>
+<Chris W>
+  <Rob S>
+    <Debt>37.48</Debt>
+    <History>
+      <Date>04/11/2014</Date>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>6.15</Amount>
+    </History>
+    <History>
+      <Date>25/11/2014</Date>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>5.76</Amount>
+    </History>
+    <History>
+      <Date>09/04/2015</Date>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+      <Amount>11.79</Amount>
+    </History>
+    <History>
+      <Date>2013-06-03T00:00:00</Date>
+      <Amount>2.16</Amount>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.32</Amount>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.3</Amount>
+      <From>Chris W</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Rob S>
+</Chris W>
+<Chris W>
+  <Stephen S>
+    <Debt>15.34</Debt>
+    <History>
+      <Date>11/02/2015</Date>
+      <From>Chris W</From>
+      <To>Stephen S</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>0.68</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.88</Amount>
+      <From>Chris W</From>
+      <To>Stephen S</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.78</Amount>
+      <From>Chris W</From>
+      <To>Stephen S</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+  </Stephen S>
+</Chris W>
+<Chris W>
+  <Dan W>
+    <Debt>15.009999999999998</Debt>
+    <History>
+      <Date>16/02/2015</Date>
+      <From>Chris W</From>
+      <To>Dan W</To>
+      <Narrative>Jenkins Fees</Narrative>
+      <Amount>1.28</Amount>
+    </History>
+    <History>
+      <Date>2013-01-04T00:00:00</Date>
+      <Amount>10.53</Amount>
+      <From>Chris W</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.2</Amount>
+      <From>Chris W</From>
+      <To>Dan W</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+  </Dan W>
+</Chris W>
+<Chris W>
+  <Sarah T>
+    <Debt>11.58</Debt>
+    <History>
+      <Date>2013-09-27T00:00:00</Date>
+      <Amount>7.05</Amount>
+      <From>Chris W</From>
+      <To>Sarah T</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.53</Amount>
+      <From>Chris W</From>
+      <To>Sarah T</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+  </Sarah T>
+</Chris W>
+<Chris W>
+  <Jon A>
+    <Debt>10.84</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.84</Amount>
+      <From>Chris W</From>
+      <To>Jon A</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+  </Jon A>
+</Chris W>
+<Chris W>
+  <Chris W>
+    <Debt>2.48</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.48</Amount>
+      <From>Chris W</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Chris W>
+</Chris W>
+<Dan W>
+  <Sam N>
+    <Debt>27.97</Debt>
+    <History>
+      <Date>10/02/2014</Date>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>0.93</Amount>
+    </History>
+    <History>
+      <Date>19/10/2014</Date>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Automated Testing Services</Narrative>
+      <Amount>8</Amount>
+    </History>
+    <History>
+      <Date>22/10/2014</Date>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+      <Amount>0.55</Amount>
+    </History>
+    <History>
+      <Date>2013-07-31T00:00:00</Date>
+      <Amount>1.2</Amount>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.22</Amount>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.07</Amount>
+      <From>Dan W</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Sam N>
+</Dan W>
+<Dan W>
+  <Laura B>
+    <Debt>4.77</Debt>
+    <History>
+      <Date>30/03/2014</Date>
+      <From>Dan W</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>4.77</Amount>
+    </History>
+  </Laura B>
+</Dan W>
+<Dan W>
+  <Gergana I>
+    <Debt>29.32</Debt>
+    <History>
+      <Date>20/04/2014</Date>
+      <From>Dan W</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>11.92</Amount>
+    </History>
+    <History>
+      <Date>05/06/2014</Date>
+      <From>Dan W</From>
+      <To>Gergana I</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>5.61</Amount>
+    </History>
+    <History>
+      <Date>06/02/2015</Date>
+      <From>Dan W</From>
+      <To>Gergana I</To>
+      <Narrative>Automated Testing Services</Narrative>
+      <Amount>10.29</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.58</Amount>
+      <From>Dan W</From>
+      <To>Gergana I</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.92</Amount>
+      <From>Dan W</From>
+      <To>Gergana I</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+  </Gergana I>
+</Dan W>
+<Dan W>
+  <Sarah T>
+    <Debt>13.989999999999998</Debt>
+    <History>
+      <Date>05/05/2014</Date>
+      <From>Dan W</From>
+      <To>Sarah T</To>
+      <Narrative>Stationary Items</Narrative>
+      <Amount>5.06</Amount>
+    </History>
+    <History>
+      <Date>11/07/2014</Date>
+      <From>Dan W</From>
+      <To>Sarah T</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>5.05</Amount>
+    </History>
+    <History>
+      <Date>2013-07-10T00:00:00</Date>
+      <Amount>3.88</Amount>
+      <From>Dan W</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sarah T>
+</Dan W>
+<Dan W>
+  <Tim L>
+    <Debt>31.36</Debt>
+    <History>
+      <Date>09/07/2014</Date>
+      <From>Dan W</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>5.45</Amount>
+    </History>
+    <History>
+      <Date>12/12/2014</Date>
+      <From>Dan W</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>4.5</Amount>
+    </History>
+    <History>
+      <Date>2013-09-05T00:00:00</Date>
+      <Amount>10.58</Amount>
+      <From>Dan W</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.63</Amount>
+      <From>Dan W</From>
+      <To>Tim L</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.2</Amount>
+      <From>Dan W</From>
+      <To>Tim L</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+  </Tim L>
+</Dan W>
+<Dan W>
+  <Todd>
+    <Debt>25.65</Debt>
+    <History>
+      <Date>06/09/2014</Date>
+      <From>Dan W</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>1.8</Amount>
+    </History>
+    <History>
+      <Date>2013-06-21T00:00:00</Date>
+      <Amount>5.43</Amount>
+      <From>Dan W</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.1</Amount>
+      <From>Dan W</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.32</Amount>
+      <From>Dan W</From>
+      <To>Todd</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Todd>
+</Dan W>
+<Dan W>
+  <Ben B>
+    <Debt>6.37</Debt>
+    <History>
+      <Date>29/10/2014</Date>
+      <From>Dan W</From>
+      <To>Ben B</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>5.87</Amount>
+    </History>
+    <History>
+      <Date>21/02/2015</Date>
+      <From>Dan W</From>
+      <To>Ben B</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>0.5</Amount>
+    </History>
+  </Ben B>
+</Dan W>
+<Dan W>
+  <Jon A>
+    <Debt>10.23</Debt>
+    <History>
+      <Date>22/12/2014</Date>
+      <From>Dan W</From>
+      <To>Jon A</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>3.66</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.57</Amount>
+      <From>Dan W</From>
+      <To>Jon A</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Jon A>
+</Dan W>
+<Dan W>
+  <Rob S>
+    <Debt>36.26</Debt>
+    <History>
+      <Date>2013-01-22T00:00:00</Date>
+      <Amount>11.12</Amount>
+      <From>Dan W</From>
+      <To>Rob S</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+    <History>
+      <Date>2013-02-06T00:00:00</Date>
+      <Amount>8.07</Amount>
+      <From>Dan W</From>
+      <To>Rob S</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-29T00:00:00</Date>
+      <Amount>9.99</Amount>
+      <From>Dan W</From>
+      <To>Rob S</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.08</Amount>
+      <From>Dan W</From>
+      <To>Rob S</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Rob S>
+</Dan W>
+<Dan W>
+  <Chris W>
+    <Debt>14.97</Debt>
+    <History>
+      <Date>2013-03-17T00:00:00</Date>
+      <Amount>3.34</Amount>
+      <From>Dan W</From>
+      <To>Chris W</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.63</Amount>
+      <From>Dan W</From>
+      <To>Chris W</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+  </Chris W>
+</Dan W>
+<Dan W>
+  <Stephen S>
+    <Debt>18.16</Debt>
+    <History>
+      <Date>2013-07-19T00:00:00</Date>
+      <Amount>3.21</Amount>
+      <From>Dan W</From>
+      <To>Stephen S</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.84</Amount>
+      <From>Dan W</From>
+      <To>Stephen S</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.11</Amount>
+      <From>Dan W</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Stephen S>
+</Dan W>
+<Sarah T>
+  <Sam N>
+    <Debt>10.370000000000001</Debt>
+    <History>
+      <Date>18/02/2014</Date>
+      <From>Sarah T</From>
+      <To>Sam N</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>1.6</Amount>
+    </History>
+    <History>
+      <Date>2013-02-18T00:00:00</Date>
+      <Amount>6.98</Amount>
+      <From>Sarah T</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.79</Amount>
+      <From>Sarah T</From>
+      <To>Sam N</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Sam N>
+</Sarah T>
+<Sarah T>
+  <Ben B>
+    <Debt>30.490000000000002</Debt>
+    <History>
+      <Date>14/03/2014</Date>
+      <From>Sarah T</From>
+      <To>Ben B</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>2.1</Amount>
+    </History>
+    <History>
+      <Date>22/07/2014</Date>
+      <From>Sarah T</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>11.56</Amount>
+    </History>
+    <History>
+      <Date>2013-05-05T00:00:00</Date>
+      <Amount>0.51</Amount>
+      <From>Sarah T</From>
+      <To>Ben B</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-17T00:00:00</Date>
+      <Amount>8.72</Amount>
+      <From>Sarah T</From>
+      <To>Ben B</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.6</Amount>
+      <From>Sarah T</From>
+      <To>Ben B</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+  </Ben B>
+</Sarah T>
+<Sarah T>
+  <Stephen S>
+    <Debt>40.760000000000005</Debt>
+    <History>
+      <Date>17/03/2014</Date>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>Beers</Narrative>
+      <Amount>0.66</Amount>
+    </History>
+    <History>
+      <Date>09/06/2014</Date>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>11.5</Amount>
+    </History>
+    <History>
+      <Date>2013-02-26T00:00:00</Date>
+      <Amount>5.94</Amount>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>2013-04-03T00:00:00</Date>
+      <Amount>2.64</Amount>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-07-23T00:00:00</Date>
+      <Amount>11.17</Amount>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.85</Amount>
+      <From>Sarah T</From>
+      <To>Stephen S</To>
+      <Narrative>White Water Rafting</Narrative>
+    </History>
+  </Stephen S>
+</Sarah T>
+<Sarah T>
+  <Gergana I>
+    <Debt>16.73</Debt>
+    <History>
+      <Date>28/06/2014</Date>
+      <From>Sarah T</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>4.03</Amount>
+    </History>
+    <History>
+      <Date>2013-06-10T00:00:00</Date>
+      <Amount>10.81</Amount>
+      <From>Sarah T</From>
+      <To>Gergana I</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.89</Amount>
+      <From>Sarah T</From>
+      <To>Gergana I</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+  </Gergana I>
+</Sarah T>
+<Sarah T>
+  <Todd>
+    <Debt>20.2</Debt>
+    <History>
+      <Date>13/08/2014</Date>
+      <From>Sarah T</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.25</Amount>
+    </History>
+    <History>
+      <Date>2013-01-30T00:00:00</Date>
+      <Amount>11.95</Amount>
+      <From>Sarah T</From>
+      <To>Todd</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+  </Todd>
+</Sarah T>
+<Sarah T>
+  <Dan W>
+    <Debt>51.85</Debt>
+    <History>
+      <Date>27/09/2014</Date>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Beers</Narrative>
+      <Amount>11.6</Amount>
+    </History>
+    <History>
+      <Date>17/02/2015</Date>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Sandbox Help</Narrative>
+      <Amount>11.48</Amount>
+    </History>
+    <History>
+      <Date>Last Thursday</Date>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Beers</Narrative>
+      <Amount>5.42</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.49</Amount>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.78</Amount>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.72</Amount>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.36</Amount>
+      <From>Sarah T</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Dan W>
+</Sarah T>
+<Sarah T>
+  <Tim L>
+    <Debt>17.29</Debt>
+    <History>
+      <Date>06/10/2014</Date>
+      <From>Sarah T</From>
+      <To>Tim L</To>
+      <Narrative>Spline Reticulation</Narrative>
+      <Amount>7.44</Amount>
+    </History>
+    <History>
+      <Date>02/11/2014</Date>
+      <From>Sarah T</From>
+      <To>Tim L</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>4.67</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.18</Amount>
+      <From>Sarah T</From>
+      <To>Tim L</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+  </Tim L>
+</Sarah T>
+<Sarah T>
+  <Chris W>
+    <Debt>20.900000000000002</Debt>
+    <History>
+      <Date>2013-01-31T00:00:00</Date>
+      <Amount>7.55</Amount>
+      <From>Sarah T</From>
+      <To>Chris W</To>
+      <Narrative>Poker Winnings</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>5.19</Amount>
+      <From>Sarah T</From>
+      <To>Chris W</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.75</Amount>
+      <From>Sarah T</From>
+      <To>Chris W</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.41</Amount>
+      <From>Sarah T</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Chris W>
+</Sarah T>
+<Sarah T>
+  <Laura B>
+    <Debt>32.58</Debt>
+    <History>
+      <Date>2013-08-22T00:00:00</Date>
+      <Amount>7.05</Amount>
+      <From>Sarah T</From>
+      <To>Laura B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-01T00:00:00</Date>
+      <Amount>7.01</Amount>
+      <From>Sarah T</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.24</Amount>
+      <From>Sarah T</From>
+      <To>Laura B</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.28</Amount>
+      <From>Sarah T</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Laura B>
+</Sarah T>
+<Sarah T>
+  <Rob S>
+    <Debt>10.69</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.69</Amount>
+      <From>Sarah T</From>
+      <To>Rob S</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+  </Rob S>
+</Sarah T>
+<Sarah T>
+  <Jon A>
+    <Debt>8.89</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.89</Amount>
+      <From>Sarah T</From>
+      <To>Jon A</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+  </Jon A>
+</Sarah T>
+<Tim L>
+  <Sam N>
+    <Debt>31.53</Debt>
+    <History>
+      <Date>22/02/2014</Date>
+      <From>Tim L</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>5.2</Amount>
+    </History>
+    <History>
+      <Date>2013-08-19T00:00:00</Date>
+      <Amount>7.51</Amount>
+      <From>Tim L</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-24T00:00:00</Date>
+      <Amount>7.59</Amount>
+      <From>Tim L</From>
+      <To>Sam N</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.12</Amount>
+      <From>Tim L</From>
+      <To>Sam N</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.11</Amount>
+      <From>Tim L</From>
+      <To>Sam N</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+  </Sam N>
+</Tim L>
+<Tim L>
+  <Sarah T>
+    <Debt>21.71</Debt>
+    <History>
+      <Date>20/03/2014</Date>
+      <From>Tim L</From>
+      <To>Sarah T</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>2.28</Amount>
+    </History>
+    <History>
+      <Date>24/04/2015</Date>
+      <From>Tim L</From>
+      <To>Sarah T</To>
+      <Narrative>Arcade Social</Narrative>
+      <Amount>6.38</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.74</Amount>
+      <From>Tim L</From>
+      <To>Sarah T</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.31</Amount>
+      <From>Tim L</From>
+      <To>Sarah T</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Sarah T>
+</Tim L>
+<Tim L>
+  <Dan W>
+    <Debt>27.07</Debt>
+    <History>
+      <Date>24/04/2014</Date>
+      <From>Tim L</From>
+      <To>Dan W</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>6.38</Amount>
+    </History>
+    <History>
+      <Date>28/11/2014</Date>
+      <From>Tim L</From>
+      <To>Dan W</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.76</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.93</Amount>
+      <From>Tim L</From>
+      <To>Dan W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Dan W>
+</Tim L>
+<Tim L>
+  <Chris W>
+    <Debt>34.980000000000004</Debt>
+    <History>
+      <Date>06/05/2014</Date>
+      <From>Tim L</From>
+      <To>Chris W</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+      <Amount>7.45</Amount>
+    </History>
+    <History>
+      <Date>2013-07-04T00:00:00</Date>
+      <Amount>5.63</Amount>
+      <From>Tim L</From>
+      <To>Chris W</To>
+      <Narrative>Poker Winnings</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.73</Amount>
+      <From>Tim L</From>
+      <To>Chris W</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.17</Amount>
+      <From>Tim L</From>
+      <To>Chris W</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+  </Chris W>
+</Tim L>
+<Tim L>
+  <Ben B>
+    <Debt>45.24</Debt>
+    <History>
+      <Date>13/05/2014</Date>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>5.89</Amount>
+    </History>
+    <History>
+      <Date>31/05/2014</Date>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>8.23</Amount>
+    </History>
+    <History>
+      <Date>2013-09-10T00:00:00</Date>
+      <Amount>8.68</Amount>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.61</Amount>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.73</Amount>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>White Water Rafting</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.1</Amount>
+      <From>Tim L</From>
+      <To>Ben B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Ben B>
+</Tim L>
+<Tim L>
+  <Todd>
+    <Debt>29.119999999999997</Debt>
+    <History>
+      <Date>22/05/2014</Date>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>3.81</Amount>
+    </History>
+    <History>
+      <Date>30/03/2015</Date>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>8.6</Amount>
+    </History>
+    <History>
+      <Date>23/04/2015</Date>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>8.1</Amount>
+    </History>
+    <History>
+      <Date>2013-04-08T00:00:00</Date>
+      <Amount>4.27</Amount>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.57</Amount>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.77</Amount>
+      <From>Tim L</From>
+      <To>Todd</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+  </Todd>
+</Tim L>
+<Tim L>
+  <Stephen S>
+    <Debt>24.790000000000003</Debt>
+    <History>
+      <Date>01/06/2014</Date>
+      <From>Tim L</From>
+      <To>Stephen S</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>5.2</Amount>
+    </History>
+    <History>
+      <Date>22/06/2014</Date>
+      <From>Tim L</From>
+      <To>Stephen S</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>6.44</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>4.42</Amount>
+      <From>Tim L</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.73</Amount>
+      <From>Tim L</From>
+      <To>Stephen S</To>
+      <Narrative>Spline Reticulation</Narrative>
+    </History>
+  </Stephen S>
+</Tim L>
+<Tim L>
+  <Laura B>
+    <Debt>12.799999999999999</Debt>
+    <History>
+      <Date>08/08/2014</Date>
+      <From>Tim L</From>
+      <To>Laura B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>3.76</Amount>
+    </History>
+    <History>
+      <Date>2013-06-30T00:00:00</Date>
+      <Amount>6.51</Amount>
+      <From>Tim L</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-09-12T00:00:00</Date>
+      <Amount>2.53</Amount>
+      <From>Tim L</From>
+      <To>Laura B</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+  </Laura B>
+</Tim L>
+<Tim L>
+  <Jon A>
+    <Debt>16.41</Debt>
+    <History>
+      <Date>2013-07-01T00:00:00</Date>
+      <Amount>1.48</Amount>
+      <From>Tim L</From>
+      <To>Jon A</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>8.65</Amount>
+      <From>Tim L</From>
+      <To>Jon A</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.28</Amount>
+      <From>Tim L</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Jon A>
+</Tim L>
+<Tim L>
+  <Rob S>
+    <Debt>10.1</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.1</Amount>
+      <From>Tim L</From>
+      <To>Rob S</To>
+      <Narrative>Automated Testing Services</Narrative>
+    </History>
+  </Rob S>
+</Tim L>
+<Ben B>
+  <Rob S>
+    <Debt>19.86</Debt>
+    <History>
+      <Date>27/02/2014</Date>
+      <From>Ben B</From>
+      <To>Rob S</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>8.41</Amount>
+    </History>
+    <History>
+      <Date>09/04/2014</Date>
+      <From>Ben B</From>
+      <To>Rob S</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>1.31</Amount>
+    </History>
+    <History>
+      <Date>2013-12-24T00:00:00</Date>
+      <Amount>10.14</Amount>
+      <From>Ben B</From>
+      <To>Rob S</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+  </Rob S>
+</Ben B>
+<Ben B>
+  <Sam N>
+    <Debt>48.85</Debt>
+    <History>
+      <Date>27/03/2014</Date>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>10.76</Amount>
+    </History>
+    <History>
+      <Date>29/12/2014</Date>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>5.26</Amount>
+    </History>
+    <History>
+      <Date>08/03/2015</Date>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>11.32</Amount>
+    </History>
+    <History>
+      <Date>15/04/2015</Date>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>8.5</Amount>
+    </History>
+    <History>
+      <Date>2013-11-29T00:00:00</Date>
+      <Amount>4.01</Amount>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>2013-12-05T00:00:00</Date>
+      <Amount>9</Amount>
+      <From>Ben B</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Sam N>
+</Ben B>
+<Ben B>
+  <Gergana I>
+    <Debt>38.010000000000005</Debt>
+    <History>
+      <Date>19/04/2014</Date>
+      <From>Ben B</From>
+      <To>Gergana I</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>7.61</Amount>
+    </History>
+    <History>
+      <Date>21/08/2014</Date>
+      <From>Ben B</From>
+      <To>Gergana I</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>9.25</Amount>
+    </History>
+    <History>
+      <Date>10/10/2014</Date>
+      <From>Ben B</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+      <Amount>3.98</Amount>
+    </History>
+    <History>
+      <Date>14/10/2014</Date>
+      <From>Ben B</From>
+      <To>Gergana I</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>11.65</Amount>
+    </History>
+    <History>
+      <Date>2013-09-19T00:00:00</Date>
+      <Amount>5.52</Amount>
+      <From>Ben B</From>
+      <To>Gergana I</To>
+      <Narrative>Beers</Narrative>
+    </History>
+  </Gergana I>
+</Ben B>
+<Ben B>
+  <Laura B>
+    <Debt>19.4</Debt>
+    <History>
+      <Date>26/05/2014</Date>
+      <From>Ben B</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>7.36</Amount>
+    </History>
+    <History>
+      <Date>28/12/2014</Date>
+      <From>Ben B</From>
+      <To>Laura B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>1.44</Amount>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.6</Amount>
+      <From>Ben B</From>
+      <To>Laura B</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+  </Laura B>
+</Ben B>
+<Ben B>
+  <Chris W>
+    <Debt>40.95</Debt>
+    <History>
+      <Date>20/06/2014</Date>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Rails Consultancy</Narrative>
+      <Amount>1.34</Amount>
+    </History>
+    <History>
+      <Date>29/08/2014</Date>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>1.66</Amount>
+    </History>
+    <History>
+      <Date>2013-02-12T00:00:00</Date>
+      <Amount>5.76</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>2013-04-27T00:00:00</Date>
+      <Amount>9.91</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-12T00:00:00</Date>
+      <Amount>7.78</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Jenkins Fees</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>11.72</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.45</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.33</Amount>
+      <From>Ben B</From>
+      <To>Chris W</To>
+      <Narrative>Services Rendered</Narrative>
+    </History>
+  </Chris W>
+</Ben B>
+<Ben B>
+  <Stephen S>
+    <Debt>11.379999999999999</Debt>
+    <History>
+      <Date>23/08/2014</Date>
+      <From>Ben B</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>5.02</Amount>
+    </History>
+    <History>
+      <Date>2013-03-28T00:00:00</Date>
+      <Amount>6.36</Amount>
+      <From>Ben B</From>
+      <To>Stephen S</To>
+      <Narrative>Sandbox Help</Narrative>
+    </History>
+  </Stephen S>
+</Ben B>
+<Ben B>
+  <Tim L>
+    <Debt>8.870000000000001</Debt>
+    <History>
+      <Date>29/09/2014</Date>
+      <From>Ben B</From>
+      <To>Tim L</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>3.43</Amount>
+    </History>
+    <History>
+      <Date>2013-04-24T00:00:00</Date>
+      <Amount>1.15</Amount>
+      <From>Ben B</From>
+      <To>Tim L</To>
+      <Narrative>Fantasy Football</Narrative>
+    </History>
+    <History>
+      <Date>2013-07-27T00:00:00</Date>
+      <Amount>4.29</Amount>
+      <From>Ben B</From>
+      <To>Tim L</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Tim L>
+</Ben B>
+<Ben B>
+  <Todd>
+    <Debt>40.46</Debt>
+    <History>
+      <Date>04/10/2014</Date>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>11.28</Amount>
+    </History>
+    <History>
+      <Date>11/01/2015</Date>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>7.33</Amount>
+    </History>
+    <History>
+      <Date>2013-07-30T00:00:00</Date>
+      <Amount>0.69</Amount>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Beers</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-01T00:00:00</Date>
+      <Amount>11.18</Amount>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-28T00:00:00</Date>
+      <Amount>2.15</Amount>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Golf Bets</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>7.83</Amount>
+      <From>Ben B</From>
+      <To>Todd</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Todd>
+</Ben B>
+<Ben B>
+  <Jon A>
+    <Debt>25.7</Debt>
+    <History>
+      <Date>07/01/2015</Date>
+      <From>Ben B</From>
+      <To>Jon A</To>
+      <Narrative>Fantasy Football</Narrative>
+      <Amount>9.93</Amount>
+    </History>
+    <History>
+      <Date>27/04/2015</Date>
+      <From>Ben B</From>
+      <To>Jon A</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>10.91</Amount>
+    </History>
+    <History>
+      <Date>2013-01-25T00:00:00</Date>
+      <Amount>4.86</Amount>
+      <From>Ben B</From>
+      <To>Jon A</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Jon A>
+</Ben B>
+<Ben B>
+  <Sarah T>
+    <Debt>21.44</Debt>
+    <History>
+      <Date>2013-03-08T00:00:00</Date>
+      <Amount>6.2</Amount>
+      <From>Ben B</From>
+      <To>Sarah T</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-13T00:00:00</Date>
+      <Amount>5.15</Amount>
+      <From>Ben B</From>
+      <To>Sarah T</To>
+      <Narrative>Poker Winnings</Narrative>
+    </History>
+    <History>
+      <Date>2013-11-07T00:00:00</Date>
+      <Amount>10.09</Amount>
+      <From>Ben B</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sarah T>
+</Ben B>
+<Ben B>
+  <Dan W>
+    <Debt>29.050000000000004</Debt>
+    <History>
+      <Date>2013-05-01T00:00:00</Date>
+      <Amount>9.85</Amount>
+      <From>Ben B</From>
+      <To>Dan W</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+    <History>
+      <Date>2013-05-14T00:00:00</Date>
+      <Amount>9.96</Amount>
+      <From>Ben B</From>
+      <To>Dan W</To>
+      <Narrative>Rails Consultancy</Narrative>
+    </History>
+    <History>
+      <Date>2013-06-16T00:00:00</Date>
+      <Amount>9.24</Amount>
+      <From>Ben B</From>
+      <To>Dan W</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Dan W>
+</Ben B>
+<Gergana I>
+  <Sam N>
+    <Debt>12.24</Debt>
+    <History>
+      <Date>14/07/2014</Date>
+      <From>Gergana I</From>
+      <To>Sam N</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>10.92</Amount>
+    </History>
+    <History>
+      <Date>2013-12-22T00:00:00</Date>
+      <Amount>1.32</Amount>
+      <From>Gergana I</From>
+      <To>Sam N</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Sam N>
+</Gergana I>
+<Gergana I>
+  <Stephen S>
+    <Debt>34.33</Debt>
+    <History>
+      <Date>18/07/2014</Date>
+      <From>Gergana I</From>
+      <To>Stephen S</To>
+      <Narrative>Snooker Night</Narrative>
+      <Amount>11.57</Amount>
+    </History>
+    <History>
+      <Date>25/08/2014</Date>
+      <From>Gergana I</From>
+      <To>Stephen S</To>
+      <Narrative>Beers</Narrative>
+      <Amount>8.57</Amount>
+    </History>
+    <History>
+      <Date>2013-03-02T00:00:00</Date>
+      <Amount>1.73</Amount>
+      <From>Gergana I</From>
+      <To>Stephen S</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+    </History>
+    <History>
+      <Date>2013-03-24T00:00:00</Date>
+      <Amount>2.39</Amount>
+      <From>Gergana I</From>
+      <To>Stephen S</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-08T00:00:00</Date>
+      <Amount>10.07</Amount>
+      <From>Gergana I</From>
+      <To>Stephen S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+  </Stephen S>
+</Gergana I>
+<Gergana I>
+  <Chris W>
+    <Debt>39.08</Debt>
+    <History>
+      <Date>28/07/2014</Date>
+      <From>Gergana I</From>
+      <To>Chris W</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>2.33</Amount>
+    </History>
+    <History>
+      <Date>24/01/2015</Date>
+      <From>Gergana I</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>8.49</Amount>
+    </History>
+    <History>
+      <Date>2013-08-13T00:00:00</Date>
+      <Amount>9.96</Amount>
+      <From>Gergana I</From>
+      <To>Chris W</To>
+      <Narrative>Sandcastle Help</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.01</Amount>
+      <From>Gergana I</From>
+      <To>Chris W</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.29</Amount>
+      <From>Gergana I</From>
+      <To>Chris W</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Chris W>
+</Gergana I>
+<Gergana I>
+  <Ben B>
+    <Debt>50.2</Debt>
+    <History>
+      <Date>04/08/2014</Date>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>7.81</Amount>
+    </History>
+    <History>
+      <Date>25/03/2015</Date>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Automated Testing Services</Narrative>
+      <Amount>2.39</Amount>
+    </History>
+    <History>
+      <Date>29/03/2015</Date>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Audit and Other Financial Services</Narrative>
+      <Amount>10.85</Amount>
+    </History>
+    <History>
+      <Date>2013-04-18T00:00:00</Date>
+      <Amount>9.07</Amount>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>2013-08-16T00:00:00</Date>
+      <Amount>10.91</Amount>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.17</Amount>
+      <From>Gergana I</From>
+      <To>Ben B</To>
+      <Narrative>Coffee</Narrative>
+    </History>
+  </Ben B>
+</Gergana I>
+<Gergana I>
+  <Rob S>
+    <Debt>25.240000000000002</Debt>
+    <History>
+      <Date>16/09/2014</Date>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Golf Bets</Narrative>
+      <Amount>1.28</Amount>
+    </History>
+    <History>
+      <Date>18/10/2014</Date>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Jenkins Fees</Narrative>
+      <Amount>5.47</Amount>
+    </History>
+    <History>
+      <Date>06/12/2014</Date>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Lego Assistance</Narrative>
+      <Amount>5.64</Amount>
+    </History>
+    <History>
+      <Date>2013-03-20T00:00:00</Date>
+      <Amount>2.85</Amount>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Stationary Items</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>3.67</Amount>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>6.33</Amount>
+      <From>Gergana I</From>
+      <To>Rob S</To>
+      <Narrative>Lego Assistance</Narrative>
+    </History>
+  </Rob S>
+</Gergana I>
+<Gergana I>
+  <Dan W>
+    <Debt>5.04</Debt>
+    <History>
+      <Date>28/10/2014</Date>
+      <From>Gergana I</From>
+      <To>Dan W</To>
+      <Narrative>Misc Morale</Narrative>
+      <Amount>5.04</Amount>
+    </History>
+  </Dan W>
+</Gergana I>
+<Gergana I>
+  <Laura B>
+    <Debt>32.26</Debt>
+    <History>
+      <Date>14/12/2014</Date>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+      <Amount>4.26</Amount>
+    </History>
+    <History>
+      <Date>21/12/2014</Date>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Pokemon Training</Narrative>
+      <Amount>6.86</Amount>
+    </History>
+    <History>
+      <Date>12/04/2015</Date>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Stationary Items</Narrative>
+      <Amount>8.37</Amount>
+    </History>
+    <History>
+      <Date>2013-08-31T00:00:00</Date>
+      <Amount>5.54</Amount>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Pokemon Training</Narrative>
+    </History>
+    <History>
+      <Date>2013-10-08T00:00:00</Date>
+      <Amount>5.33</Amount>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>1.9</Amount>
+      <From>Gergana I</From>
+      <To>Laura B</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+  </Laura B>
+</Gergana I>
+<Gergana I>
+  <Todd>
+    <Debt>0.8</Debt>
+    <History>
+      <Date>22/01/2015</Date>
+      <From>Gergana I</From>
+      <To>Todd</To>
+      <Narrative>Coffee</Narrative>
+      <Amount>0.8</Amount>
+    </History>
+  </Todd>
+</Gergana I>
+<Gergana I>
+  <Sarah T>
+    <Debt>5.92</Debt>
+    <History>
+      <Date>2013-04-11T00:00:00</Date>
+      <Amount>3</Amount>
+      <From>Gergana I</From>
+      <To>Sarah T</To>
+      <Narrative>Lunch</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>2.92</Amount>
+      <From>Gergana I</From>
+      <To>Sarah T</To>
+      <Narrative>Misc Morale</Narrative>
+    </History>
+  </Sarah T>
+</Gergana I>
+<Gergana I>
+  <Tim L>
+    <Debt>13</Debt>
+    <History>
+      <Date>2013-05-09T00:00:00</Date>
+      <Amount>2.27</Amount>
+      <From>Gergana I</From>
+      <To>Tim L</To>
+      <Narrative>White Water Rafting</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>10.73</Amount>
+      <From>Gergana I</From>
+      <To>Tim L</To>
+      <Narrative>Arcade Social</Narrative>
+    </History>
+  </Tim L>
+</Gergana I>
+<Gergana I>
+  <Jon A>
+    <Debt>10.020000000000001</Debt>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>9.22</Amount>
+      <From>Gergana I</From>
+      <To>Jon A</To>
+      <Narrative>Snooker Night</Narrative>
+    </History>
+    <History>
+      <Date>Tue Jun 27 2023 14:59:41 GMT+0300 (Eastern European Summer Time)</Date>
+      <Amount>0.8</Amount>
+      <From>Gergana I</From>
+      <To>Jon A</To>
+      <Narrative>Git-Fu Rendered</Narrative>
+    </History>
+  </Jon A>
+</Gergana I>
