@@ -133,6 +133,8 @@ function calculateAccounts(transactions: Transaction[], accounts: Account) {
     })
 }
 
+
+
 const transactions = parseCsv("Transactions2014.csv");
 logger.debug("Finished parsing Transactions2014.csv");
 
@@ -150,8 +152,6 @@ calculateAccounts(transactions, accounts);
 calculateAccounts(dodgyTransactions, accounts);
 calculateAccounts(jsonTransactions, accounts);
 calculateAccounts(xmlTransactions, accounts);
-
-console.log(accounts)
 
 let keys = ['All', ...Object.keys(accounts), "Import file", "Export file"];
 
@@ -178,19 +178,15 @@ while (index != -1) {
         calculateAccounts(transactions, accounts);
     } else if (index == keys.length - 1) {
         let filename: string = readlineSync.question("Enter the name of the file you want to export to: ");
-        if (filename.endsWith(".csv")) {
-
-        } else if (filename.endsWith(".json")) {
+        if (filename.endsWith(".json")) {
             fs.writeFileSync(filename, JSON.stringify(accounts, null, 2));
         } else if (filename.endsWith(".xml")) {
             const builder = new XMLBuilder({
-                format: true,
-
+                format: true
             });
             fs.writeFileSync(filename, builder.build(accounts));
         } else {
             logger.debug("Bad filetype, please try again");
-            continue;
         }
     } else if (index != -1) {
         console.log(keys[index] + ":");
