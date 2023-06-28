@@ -18,7 +18,8 @@ type Parties = {To: string, From: string}
 interface TransactionXML {
     Parties: Parties,
     Description: string,
-    Value: string
+    Value: string,
+    '@_Date': string,
 }
 interface TransactionJson {
     Date: Date,
@@ -73,7 +74,7 @@ function convertCsvToNormal(transaction: Transaction): Transaction {
 
 function convertXmlToNormal(transaction: TransactionXML): Transaction {
     return {
-        Date: new Date(), // Date apparently disappeared from XML
+        Date: new Date(transaction["@_Date"]),
         Amount: transaction.Value,
         From: transaction.Parties.From,
         To: transaction.Parties.To,
@@ -99,10 +100,22 @@ function convertJsonToNormal(transaction: TransactionJson): Transaction {
 function parseXml(filename: string): Transaction[] {
     const transactionsXml = fs.readFileSync(filename, 'utf-8');
 
-    const parser = new XMLParser();
+    const parser = new XMLParser({
+        ignoreAttributes: false
+    });
     const xmlConversion: TransactionXML[] = parser.parse(transactionsXml).TransactionList.SupportTransaction
     return xmlConversion.map(convertXmlToNormal);
+}
 
+function rebalanceAccounts(accounts: Account) {
+    for (let accountsKey in accounts) {
+        for (let debtor of accounts[accountsKey]) {
+            let otherPerson: string = Object.keys(debtor)[0];
+            let balance = debtor[otherPerson].Debt;
+
+        }
+        // console.log(accountsKey);
+    }
 }
 
 function calculateAccounts(transactions: Transaction[], accounts: Account) {
@@ -131,9 +144,9 @@ function calculateAccounts(transactions: Transaction[], accounts: Account) {
             accounts[transaction.From].push(debt);
         }
     })
+
+    rebalanceAccounts(accounts);
 }
-
-
 
 const transactions = parseCsv("Transactions2014.csv");
 logger.debug("Finished parsing Transactions2014.csv");
