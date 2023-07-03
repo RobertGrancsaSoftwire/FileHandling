@@ -1,5 +1,7 @@
 import * as fs from 'fs';
 import {parse} from 'csv-parse/sync';
+import { Transaction, TransactionXML, TransactionJson } from './transactions';
+
 const readlineSync = require('readline-sync');
 const log4js = require("log4js");
 const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
@@ -14,27 +16,6 @@ log4js.configure({
     }
 });
 
-type Parties = {To: string, From: string}
-interface TransactionXML {
-    Parties: Parties,
-    Description: string,
-    Value: string,
-    '@_Date': string,
-}
-interface TransactionJson {
-    Date: Date,
-    FromAccount: string,
-    ToAccount: string,
-    Narrative: string,
-    Amount: string
-}
-interface Transaction {
-    Date: Date,
-    From: string,
-    To: string,
-    Narrative: string,
-    Amount: string
-}
 type PersonHistory = {
     Debt: number,
     History: Transaction[],
@@ -43,9 +24,13 @@ type PersonHistory = {
 type Owes = {
     [key: string]: PersonHistory;
 };
-type Account = {[key: string]: Owes[]};
+
+type Account = {
+    [key: string]: Owes[]
+};
 
 const logger = log4js.getLogger('index.ts');
+
 function parseCsv(filename: string): Transaction[] {
     const transactionsCsv = fs.readFileSync(filename, 'utf-8');
 
@@ -107,17 +92,6 @@ function parseXml(filename: string): Transaction[] {
     return xmlConversion.map(convertXmlToNormal);
 }
 
-function rebalanceAccounts(accounts: Account) {
-    for (let accountsKey in accounts) {
-        for (let debtor of accounts[accountsKey]) {
-            let otherPerson: string = Object.keys(debtor)[0];
-            let balance = debtor[otherPerson].Debt;
-
-        }
-        // console.log(accountsKey);
-    }
-}
-
 function calculateAccounts(transactions: Transaction[], accounts: Account) {
     transactions.forEach((transaction: Transaction) => {
         let debt: Owes = {
@@ -144,8 +118,6 @@ function calculateAccounts(transactions: Transaction[], accounts: Account) {
             accounts[transaction.From].push(debt);
         }
     })
-
-    rebalanceAccounts(accounts);
 }
 
 const transactions = parseCsv("Transactions2014.csv");
